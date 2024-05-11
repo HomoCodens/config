@@ -6,3 +6,7 @@ In't text based config wondermous?
 Is where VSCode lives  
 Use https://marketplace.visualstudio.com/items?itemName=zokugun.sync-settings  
 Config see `settings.yml` (recurshiaaahn!)
+
+## oh-my-posh
+OMP Themes  
+https://ohmyposh.dev/
