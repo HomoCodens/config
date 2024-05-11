@@ -1,0 +1,1600 @@
+alefragnani.pascal: '{"pascal.version":"9.8.0","askforGlobalAvailable":false}'
+eamodio.gitlens: '{"gitlens:views:welcome:visible":true,"gitlens:premium:subscription":{"v":1,"data":{"plan":{"actual":{"id":"free","name":"GitKraken","bundle":false,"cancelled":false,"trialReactivationCount":0,"startedOn":"2023-10-03T14:26:04.189Z"},"effective":{"id":"free","name":"GitKraken","bundle":false,"cancelled":false,"trialReactivationCount":0,"startedOn":"2023-10-03T14:26:04.189Z"}},"state":2,"previewTrial":{"startedOn":"2023-11-29T16:03:38.146Z","expiresOn":"2023-12-02T22:59:59.999Z"}}},"gitlens:version":"14.9.1","gitlens:synced:version":"14.9.1","gitlens:usages":{"welcomeWebview:shown":{"count":3,"firstUsedAt":1696343164299,"lastUsedAt":1696405585216},"fileHistoryView:shown":{"count":19,"firstUsedAt":1696945897321,"lastUsedAt":1713250406968},"searchAndCompareView:shown":{"count":18,"firstUsedAt":1696945897322,"lastUsedAt":1713250406969},"workspaceView:shown":{"count":0,"firstUsedAt":1698933809569,"lastUsedAt":1698933809569},"commitDetailsView:shown":{"count":3,"firstUsedAt":1698936094703,"lastUsedAt":1703066912348},"timelineView:shown":{"count":1,"firstUsedAt":1698936094708,"lastUsedAt":1703064371060},"draftsView:shown":{"count":6,"firstUsedAt":1700575596082,"lastUsedAt":1712731140655},"workspacesView:shown":{"count":6,"firstUsedAt":1700575596083,"lastUsedAt":1712731140656},"homeView:shown":{"count":0,"firstUsedAt":1703064355221,"lastUsedAt":1703064355221},"lineHistoryView:shown":{"count":0,"firstUsedAt":1703066920721,"lastUsedAt":1703066920721},"commitsView:shown":{"count":1,"firstUsedAt":1703068639932,"lastUsedAt":1705391484519},"graphView:shown":{"count":0,"firstUsedAt":1703068935333,"lastUsedAt":1703068935333},"graphDetailsView:shown":{"count":0,"firstUsedAt":1703068935355,"lastUsedAt":1703068935355},"worktreesView:shown":{"count":1,"firstUsedAt":1705391489978,"lastUsedAt":1706708227573},"branchesView:shown":{"count":137,"firstUsedAt":1705402809364,"lastUsedAt":1715167777064},"contributorsView:shown":{"count":0,"firstUsedAt":1706708230281,"lastUsedAt":1706708230281},"stashesView:shown":{"count":0,"firstUsedAt":1706708232029,"lastUsedAt":1706708232029},"remotesView:shown":{"count":0,"firstUsedAt":1706708233027,"lastUsedAt":1706708233027}},"gitlens:repoVisibility":[["c:/repos/NotesApp",{"visibility":"private","timestamp":1698232945223,"remotesHash":"ssh.dev.azure.com/v3/severinthoeni/Notes%20App/Notes%20App"}],["c:/repos/vscode-remote-try-node",{"visibility":"public","timestamp":1698650784062,"remotesHash":"github.com/Microsoft/vscode-remote-try-node"}],["c:/repos/Pariksha",{"visibility":"private","timestamp":1698831518602,"remotesHash":"ssh.dev.azure.com/v3/MFEngineeringAG/Pariksha/Pariksha"}],["c:/repos/Franke.Pruefsysteme",{"visibility":"private","timestamp":1699433152910,"remotesHash":"ssh.dev.azure.com/v3/MFEngineeringAG/Pariksha/Franke.Pruefsysteme"}],["c:/repos/RolX",{"visibility":"public","timestamp":1699863107960,"remotesHash":"ssh.dev.azure.com/v3/MFEngineeringAG/RolX/RolX"}],["e:/repos/adventofcode_2023_ts",{"visibility":"public","timestamp":1701845060518,"remotesHash":"github.com/HomoCodens/adventofcode_2023_ts"}],["e:/repos/Franke.Pruefsysteme",{"visibility":"private","timestamp":1704875959111,"remotesHash":"ssh.dev.azure.com/v3/MFEngineeringAG/Pariksha/Franke.Pruefsysteme"}],["e:/repos/sus-openai-api-tutorial",{"visibility":"public","timestamp":1705306865522,"remotesHash":"github.com/rstropek/sus-openai-api-tutorial"}],["e:/repos/Samples",{"visibility":"public","timestamp":1705329492516,"remotesHash":"github.com/rstropek/Samples"}],["e:/repos/UmlWorkshop",{"visibility":"public","timestamp":1705409944259,"remotesHash":"github.com/Hubble1942/UmlWorkshop"}],["e:/repos/PfiffnerPoCs/primeng-sass-theme",{"visibility":"public","timestamp":1706715637781,"remotesHash":"github.com/primefaces/primeng-sass-theme"}],["e:/repos/TabeaDocumentGenerator",{"visibility":"private","timestamp":1709733738526,"remotesHash":"ssh.dev.azure.com/v3/pmwch/Tabea/document-generator"}],["e:/repos/sivas-emulator",{"visibility":"private","timestamp":1710842207831,"remotesHash":"ssh.dev.azure.com/v3/pmwch/Tabea/sivas-emulator"}],["e:/repos/docfxdemo",{"visibility":"private","timestamp":1711529006087,"remotesHash":"ssh.dev.azure.com/v3/MFEngineeringAG/Pariksha/Pariksha"}],["e:/repos/tabea",{"visibility":"private","timestamp":1713160755324,"remotesHash":"ssh.dev.azure.com/v3/pmwch/Tabea/tabea"}],["e:/repos/PfiffnerPoCs/Volta
+  -
+  Komplett/Massbild",{"visibility":"public","timestamp":1713163907478,"remotesHash":"pmw.opsone-git.ch/pch/industrieit/produktiv/massbild"}],["e:/repos/PfiffnerPoCs/Volta
+  -
+  Komplett/Volta",{"visibility":"public","timestamp":1713163907482,"remotesHash":"pmw.opsone-git.ch/pch/industrieit/produktiv/volta"}],["e:/repos/PfiffnerPoCs/Volta
+  -
+  Komplett/Allgemein",{"visibility":"public","timestamp":1713163907521,"remotesHash":"pmw.opsone-git.ch/pch/industrieit/produktiv/allgemein"}],["e:/repos/Brachium",{"visibility":"private","timestamp":1713261163031,"remotesHash":"ssh.dev.azure.com/v3/MFEngineeringAG/Brachium/Brachium"}],["e:/repos/Pariksha",{"visibility":"private","timestamp":1713269919202,"remotesHash":"ssh.dev.azure.com/v3/MFEngineeringAG/Pariksha/Pariksha"}],["e:/repos/DocumentGenerator",{"visibility":"private","timestamp":1713785421083,"remotesHash":"ssh.dev.azure.com/v3/pmwch/Tabea/document-server"}],["e:/repos/RolX",{"visibility":"public","timestamp":1714641803707,"remotesHash":"ssh.dev.azure.com/v3/MFEngineeringAG/RolX/RolX"}]]}'
+GitHub.copilot: '{"installedVersion":"1.187.0","codeReference.notified":true}'
+GitHub.copilot-chat: '{"VSCode.ABExp.FeatureData":{"features":["account-aacf","config.editor.experimental.asyncTokenization","config.python.analysis.addImport.heuristics","copilotchat.aacf","copilotchat.renameSuggestionsDelayBeforeFetch","copilotchat.useCodeSearch","livesharecontinuousaacf","mindaroBinariesVersion","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","pythonCreateEnvOnPipInstallcf","shouldUseGrpcService","test11-04-2020-2","testtv"],"assignmentContext":"vsliv368cf:30146710;vspor879:30202332;vspor708:30202333;vspor363:30204092;tftest:31042121;vstes516:30244333;binariesv615:30325510;vsaa593cf:30376535;c4g48928:30535728;asynctok:30898717;65e36911:30811543;c771b703:30959264;pythonait:31006305;bdiig495:31013172;pythoncenvptcf:31043158;","configs":[{"Id":"vscode","Parameters":{"account-aa":false,"config.editor.experimental.asyncTokenization":true,"config.python.analysis.addImport.heuristics":true,"copilotchat.aa":false,"copilotchat.renameSuggestionsDelayBeforeFetch":450,"copilotchat.useCodeSearch":true,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"pythonCreateEnvOnPipInstall":false,"shouldUseGrpcService":true,"test11-04-2020-2":true,"testtv":true}}]},"commandEmbeddings-version-remote":"1713658028431","commandEmbeddings-version":"1.89","settingEmbeddings-version-remote":"1713658039013","settingEmbeddings-version":"1.89"}'
+ms-azuretools.azure-dev: '{"VSCode.ABExp.FeatureData":{"features":["account-aacf","azure-dev_surveyOne","azuredevcliaa","config.editor.experimental.asyncTokenization","copilotchat.renameSuggestionsDelayBeforeFetch","livesharecontinuousaacf","mindaroBinariesVersion","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","test11-04-2020-2"],"assignmentContext":"vsliv368cf:30146710;vspor879:30202332;vspor708:30202333;vspor363:30204092;vstes516:30244333;binariesv615:30325510;vsaa593cf:30376535;c4g48928:30535728;vsazdevcli567:30543653;azure-dev_surveyone:30548225;asynctok:30898717;bdiig495:31013172;","configs":[{"Id":"vscode","Parameters":{"account-aa":false,"azure-dev_surveyOne":true,"azuredevcliaa":true,"config.editor.experimental.asyncTokenization":true,"copilotchat.renameSuggestionsDelayBeforeFetch":450,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"test11-04-2020-2":true}}]}}'
+ms-azuretools.vscode-azurefunctions: '{"VSCode.ABExp.FeatureData":{"features":["account-aacf","config.editor.experimental.asyncTokenization","copilotchat.renameSuggestionsDelayBeforeFetch","livesharecontinuousaacf","mindaroBinariesVersion","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","test11-04-2020-2"],"assignmentContext":"vsliv368cf:30146710;vspor879:30202332;vspor708:30202333;vspor363:30204092;vstes516:30244333;binariesv615:30325510;vsaa593cf:30376535;c4g48928:30535728;asynctok:30898717;bdiig495:31013172;","configs":[{"Id":"vscode","Parameters":{"account-aa":false,"config.editor.experimental.asyncTokenization":true,"copilotchat.renameSuggestionsDelayBeforeFetch":450,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"test11-04-2020-2":true}}]}}'
+ms-azuretools.vscode-azureresourcegroups: '{"VSCode.ABExp.FeatureData":{"features":["account-aacf","config.editor.experimental.asyncTokenization","config.python.analysis.addImport.heuristics","copilotchat.renameSuggestionsDelayBeforeFetch","CppTools1","livesharecontinuousaacf","mindaroBinariesVersion","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","test11-04-2020-2"],"assignmentContext":"vsliv368cf:30146710;vspor879:30202332;vspor708:30202333;vspor363:30204092;vstes516:30244333;binariesv615:30325510;vsaa593cf:30376535;c4g48928:30535728;asynctok:30898717;cppperfnew:31000557;pythonait:31006305;bdiig495:31013172;","configs":[{"Id":"vscode","Parameters":{"account-aa":false,"config.editor.experimental.asyncTokenization":true,"config.python.analysis.addImport.heuristics":true,"copilotchat.renameSuggestionsDelayBeforeFetch":450,"CppTools1":true,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"test11-04-2020-2":true}}]}}'
+ms-azuretools.vscode-azurestaticwebapps: '{"VSCode.ABExp.FeatureData":{"features":["account-aacf","config.editor.experimental.asyncTokenization","copilotchat.renameSuggestionsDelayBeforeFetch","livesharecontinuousaacf","mindaroBinariesVersion","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","swa-aa","test11-04-2020-2"],"assignmentContext":"vsliv368cf:30146710;vspor879:30202332;vspor708:30202333;vspor363:30204092;vstes516:30244333;vsswa593:30288580;binariesv615:30325510;vsaa593cf:30376535;c4g48928:30535728;asynctok:30898717;bdiig495:31013172;","configs":[{"Id":"vscode","Parameters":{"account-aa":false,"config.editor.experimental.asyncTokenization":true,"copilotchat.renameSuggestionsDelayBeforeFetch":450,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"swa-aa":true,"test11-04-2020-2":true}}]}}'
+ms-azuretools.vscode-bicep: '{"bicep.surveys.annualSurveyState":{}}'
+ms-azuretools.vscode-docker: '{"isRegistryMigrated":true,"vscode-docker.activity.overallnoedit":{"lastSession":1715149968339,"currentMonthSessions":4,"totalSessions":66},"vscode-docker.activity.overall":{"lastSession":1715149968393,"currentMonthSessions":4,"totalSessions":66},"VSCode.ABExp.FeatureData":{"features":["account-aacf","config.editor.experimental.asyncTokenization","copilotchat.renameSuggestionsDelayBeforeFetch","livesharecontinuousaacf","mindaroBinariesVersion","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","test11-04-2020-2","vscode-docker.aatest"],"assignmentContext":"vsliv368cf:30146710;vscode-docker_aaflight:30153983;vspor879:30202332;vspor708:30202333;vspor363:30204092;vstes516:30244333;binariesv615:30325510;vsaa593cf:30376535;c4g48928:30535728;asynctok:30898717;bdiig495:31013172;","configs":[{"Id":"vscode","Parameters":{"account-aa":false,"config.editor.experimental.asyncTokenization":true,"copilotchat.renameSuggestionsDelayBeforeFetch":450,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"test11-04-2020-2":true,"vscode-docker.aatest":true}}]},"vscode-docker.container.newContainerUser":false}'
+ms-dotnettools.vscode-dotnet-runtime: "{\"axios-cache:-811074893\":{\"state\":\
+  \"cached\",\"ttl\":300000,\"createdAt\":1705333254396,\"data\":{\"data\":\"#\
+  \\r\\n# Copyright (c) .NET Foundation and contributors. All rights
+  reserved.\\r\\n# Licensed under the MIT license. See LICENSE file in the
+  project root for full license
+  information.\\r\\n#\\r\\n\\r\\n<#\\r\\n.SYNOPSIS\\r\\n    Installs dotnet
+  cli\\r\\n.DESCRIPTION\\r\\n    Installs dotnet cli. If dotnet installation
+  already exists in the given directory\\r\\n    it will update it only if the
+  requested version differs from the one already installed.\\r\\n\\r\\n    Note
+  that the intended use of this script is for Continuous Integration (CI)
+  scenarios, where:\\r\\n    - The SDK needs to be installed without user
+  interaction and without admin rights.\\r\\n    - The SDK installation doesn't
+  need to persist across multiple CI runs.\\r\\n    To set up a development
+  environment or to run apps, use installers rather than this script. Visit
+  https://dotnet.microsoft.com/download to get the
+  installer.\\r\\n\\r\\n.PARAMETER Channel\\r\\n    Default:
+  LTS\\r\\n    Download from the Channel specified. Possible values:\\r\\n    -
+  STS - the most recent Standard Term Support release\\r\\n    - LTS - the most
+  recent Long Term Support release\\r\\n    - 2-part version in a format A.B -
+  represents a specific release\\r\\n          examples: 2.0, 1.0\\r\\n    -
+  3-part version in a format A.B.Cxx - represents a specific SDK
+  release\\r\\n          examples: 5.0.1xx, 5.0.2xx\\r\\n          Supported
+  since 5.0 release\\r\\n    Warning: Value \\\"Current\\\" is deprecated for
+  the Channel parameter. Use \\\"STS\\\" instead.\\r\\n    Note: The version
+  parameter overrides the channel parameter when any version other than 'latest'
+  is used.\\r\\n.PARAMETER Quality\\r\\n    Download the latest build of
+  specified quality in the channel. The possible values are: daily, signed,
+  validated, preview, GA.\\r\\n    Works only in combination with channel. Not
+  applicable for STS and LTS channels and will be ignored if those channels are
+  used. \\r\\n    For SDK use channel in A.B.Cxx format: using quality together
+  with channel in A.B format is not supported.\\r\\n    Supported since 5.0
+  release.\\r\\n    Note: The version parameter overrides the channel parameter
+  when any version other than 'latest' is used, and therefore overrides the
+  quality.     \\r\\n.PARAMETER Version\\r\\n    Default:
+  latest\\r\\n    Represents a build version on specific channel. Possible
+  values:\\r\\n    - latest - the latest build on specific channel\\r\\n    -
+  3-part version in a format A.B.C - represents specific version of
+  build\\r\\n          examples: 2.0.0-preview2-006120, 1.1.0\\r\\n.PARAMETER
+  Internal\\r\\n    Download internal builds. Requires providing credentials via
+  -FeedCredential parameter.\\r\\n.PARAMETER FeedCredential\\r\\n    Token to
+  access Azure feed. Used as a query string to append to the Azure
+  feed.\\r\\n    This parameter typically is not specified.\\r\\n.PARAMETER
+  InstallDir\\r\\n    Default:
+  %LocalAppData%\\\\Microsoft\\\\dotnet\\r\\n    Path to where to install
+  dotnet. Note that binaries will be placed directly in a given
+  directory.\\r\\n.PARAMETER Architecture\\r\\n    Default: <auto> - this value
+  represents currently running OS architecture\\r\\n    Architecture of dotnet
+  binaries to be installed.\\r\\n    Possible values are: <auto>, amd64, x64,
+  x86, arm64, arm\\r\\n.PARAMETER SharedRuntime\\r\\n    This parameter is
+  obsolete and may be removed in a future version of this script.\\r\\n    The
+  recommended alternative is '-Runtime dotnet'.\\r\\n    Installs just the
+  shared runtime bits, not the entire SDK.\\r\\n.PARAMETER
+  Runtime\\r\\n    Installs just a shared runtime, not the entire
+  SDK.\\r\\n    Possible values:\\r\\n        - dotnet     - the
+  Microsoft.NETCore.App shared runtime\\r\\n        - aspnetcore - the
+  Microsoft.AspNetCore.App shared runtime\\r\\n        - windowsdesktop - the
+  Microsoft.WindowsDesktop.App shared runtime\\r\\n.PARAMETER DryRun\\r\\n    If
+  set it will not perform installation but instead display what command line to
+  use to consistently install\\r\\n    currently requested version of dotnet
+  cli. In example if you specify version 'latest' it will display a
+  link\\r\\n    with specific version so that this command can be used
+  deterministicly in a build script.\\r\\n    It also displays binaries location
+  if you prefer to install or download it yourself.\\r\\n.PARAMETER
+  NoPath\\r\\n    By default this script will set environment variable PATH for
+  the current process to the binaries folder inside installation
+  folder.\\r\\n    If set it will display binaries location but not set any
+  environment variable.\\r\\n.PARAMETER Verbose\\r\\n    Displays diagnostics
+  information.\\r\\n.PARAMETER AzureFeed\\r\\n    Default:
+  https://dotnetcli.azureedge.net/dotnet\\r\\n    For internal use
+  only.\\r\\n    Allows using a different storage to download SDK archives
+  from.\\r\\n    This parameter is only used if $NoCdn is false.\\r\\n.PARAMETER
+  UncachedFeed\\r\\n    For internal use only.\\r\\n    Allows using a different
+  storage to download SDK archives from.\\r\\n    This parameter is only used if
+  $NoCdn is true.\\r\\n.PARAMETER ProxyAddress\\r\\n    If set, the installer
+  will use the proxy when making web requests\\r\\n.PARAMETER
+  ProxyUseDefaultCredentials\\r\\n    Default: false\\r\\n    Use default
+  credentials, when using proxy address.\\r\\n.PARAMETER
+  ProxyBypassList\\r\\n    If set with ProxyAddress, will provide the list of
+  comma separated urls that will bypass the proxy\\r\\n.PARAMETER
+  SkipNonVersionedFiles\\r\\n    Default: false\\r\\n    Skips installing
+  non-versioned files if they already exist, such as dotnet.exe.\\r\\n.PARAMETER
+  NoCdn\\r\\n    Disable downloading from the Azure CDN, and use the uncached
+  feed directly.\\r\\n.PARAMETER JSonFile\\r\\n    Determines the SDK version
+  from a user specified global.json file\\r\\n    Note: global.json must have a
+  value for 'SDK:Version'\\r\\n.PARAMETER DownloadTimeout\\r\\n    Determines
+  timeout duration in seconds for dowloading of the SDK file\\r\\n    Default:
+  1200 seconds (20 minutes)\\r\\n.PARAMETER KeepZip\\r\\n    If set, downloaded
+  file is kept\\r\\n.PARAMETER ZipPath\\r\\n    Use that path to store
+  installer, generated by
+  default\\r\\n#>\\r\\n[cmdletbinding()]\\r\\nparam(\\r\\n   [string]$Channel=\\\
+  \"LTS\\\",\\r\\n   [string]$Quality,\\r\\n   [string]$Version=\\\"Latest\\\",\
+  \\r\\n   [switch]$Internal,\\r\\n   [string]$JSonFile,\\r\\n   [Alias('i')][s\
+  tring]$InstallDir=\\\"<auto>\\\",\\r\\n   [string]$Architecture=\\\"<auto>\\\
+  \",\\r\\n   [string]$Runtime,\\r\\n   [Obsolete(\\\"This parameter may be
+  removed in a future version of this script. The recommended alternative is
+  '-Runtime
+  dotnet'.\\\")]\\r\\n   [switch]$SharedRuntime,\\r\\n   [switch]$DryRun,\\r\\n   \
+  [switch]$NoPath,\\r\\n   [string]$AzureFeed,\\r\\n   [string]$UncachedFeed,\\r\
+  \\n   [string]$FeedCredential,\\r\\n   [string]$ProxyAddress,\\r\\n   [switch\
+  ]$ProxyUseDefaultCredentials,\\r\\n   [string[]]$ProxyBypassList=@(),\\r\\n   \
+  [switch]$SkipNonVersionedFiles,\\r\\n   [switch]$NoCdn,\\r\\n   [int]$Downloa\
+  dTimeout=1200,\\r\\n   [switch]$KeepZip,\\r\\n   [string]$ZipPath=[System.IO.\
+  Path]::combine([System.IO.Path]::GetTempPath(),
+  [System.IO.Path]::GetRandomFileName())\\r\\n)\\r\\n\\r\\nSet-StrictMode
+  -Version
+  Latest\\r\\n$ErrorActionPreference=\\\"Stop\\\"\\r\\n$ProgressPreference=\\\"\
+  SilentlyContinue\\\"\\r\\n\\r\\nfunction Say($str) {\\r\\n    try
+  {\\r\\n        Write-Host \\\"dotnet-install:
+  $str\\\"\\r\\n    }\\r\\n    catch {\\r\\n        # Some platforms cannot
+  utilize Write-Host (Azure Functions, for instance). Fall back to
+  Write-Output\\r\\n        Write-Output \\\"dotnet-install:
+  $str\\\"\\r\\n    }\\r\\n}\\r\\n\\r\\nfunction Say-Warning($str)
+  {\\r\\n    try {\\r\\n        Write-Warning \\\"dotnet-install:
+  $str\\\"\\r\\n    }\\r\\n    catch {\\r\\n        # Some platforms cannot
+  utilize Write-Warning (Azure Functions, for instance). Fall back to
+  Write-Output\\r\\n        Write-Output \\\"dotnet-install: Warning:
+  $str\\\"\\r\\n    }\\r\\n}\\r\\n\\r\\n# Writes a line with error style
+  settings.\\r\\n# Use this function to show a human-readable comment along with
+  an exception.\\r\\nfunction Say-Error($str) {\\r\\n    try {\\r\\n        #
+  Write-Error is quite oververbose for the purpose of the function, let's write
+  one line with error style
+  settings.\\r\\n        $Host.UI.WriteErrorLine(\\\"dotnet-install:
+  $str\\\")\\r\\n    }\\r\\n    catch {\\r\\n        Write-Output
+  \\\"dotnet-install: Error: $str\\\"\\r\\n    }\\r\\n}\\r\\n\\r\\nfunction
+  Say-Verbose($str) {\\r\\n    try {\\r\\n        Write-Verbose
+  \\\"dotnet-install: $str\\\"\\r\\n    }\\r\\n    catch {\\r\\n        # Some
+  platforms cannot utilize Write-Verbose (Azure Functions, for instance). Fall
+  back to Write-Output\\r\\n        Write-Output \\\"dotnet-install:
+  $str\\\"\\r\\n    }\\r\\n}\\r\\n\\r\\nfunction Measure-Action($name, $block)
+  {\\r\\n    $time = Measure-Command $block\\r\\n    $totalSeconds =
+  $time.TotalSeconds\\r\\n    Say-Verbose \\\"⏱ Action '$name' took
+  $totalSeconds seconds\\\"\\r\\n}\\r\\n\\r\\nfunction
+  Get-Remote-File-Size($zipUri) {\\r\\n    try {\\r\\n        $response =
+  Invoke-WebRequest -Uri $zipUri -Method Head\\r\\n        $fileSize =
+  $response.Headers[\\\"Content-Length\\\"]\\r\\n        if
+  ((![string]::IsNullOrEmpty($fileSize))) {\\r\\n            Say \\\"Remote file
+  $zipUri size is $fileSize bytes.\\\"\\r\\n        \\r\\n            return
+  $fileSize\\r\\n        }\\r\\n    }\\r\\n    catch {\\r\\n        Say-Verbose
+  \\\"Content-Length header was not extracted for
+  $zipUri.\\\"\\r\\n    }\\r\\n\\r\\n    return $null\\r\\n}\\r\\n\\r\\nfunction
+  Say-Invocation($Invocation) {\\r\\n    $command =
+  $Invocation.MyCommand;\\r\\n    $args = (($Invocation.BoundParameters.Keys |
+  foreach { \\\"-$_ `\\\"$($Invocation.BoundParameters[$_])`\\\"\\\" }) -join
+  \\\" \\\")\\r\\n    Say-Verbose \\\"$command
+  $args\\\"\\r\\n}\\r\\n\\r\\nfunction
+  Invoke-With-Retry([ScriptBlock]$ScriptBlock,
+  [System.Threading.CancellationToken]$cancellationToken =
+  [System.Threading.CancellationToken]::None, [int]$MaxAttempts = 3,
+  [int]$SecondsBetweenAttempts = 1) {\\r\\n    $Attempts =
+  0\\r\\n    $local:startTime = $(get-date)\\r\\n\\r\\n    while ($true)
+  {\\r\\n        try {\\r\\n            return &
+  $ScriptBlock\\r\\n        }\\r\\n        catch
+  {\\r\\n            $Attempts++\\r\\n            if (($Attempts -lt
+  $MaxAttempts) -and -not $cancellationToken.IsCancellationRequested)
+  {\\r\\n                Start-Sleep
+  $SecondsBetweenAttempts\\r\\n            }\\r\\n            else
+  {\\r\\n                $local:elapsedTime = $(get-date) -
+  $local:startTime\\r\\n                if (($local:elapsedTime.TotalSeconds -
+  $DownloadTimeout) -gt 0 -and -not $cancellationToken.IsCancellationRequested)
+  {\\r\\n                    throw New-Object System.TimeoutException(\\\"Failed
+  to reach the server: connection timeout: default timeout is $DownloadTimeout
+  second(s)\\\");\\r\\n                }\\r\\n                throw;\\r\\n            \
+  }\\r\\n        }\\r\\n    }\\r\\n}\\r\\n\\r\\nfunction
+  Get-Machine-Architecture() {\\r\\n    Say-Invocation
+  $MyInvocation\\r\\n\\r\\n    # On PS x86, PROCESSOR_ARCHITECTURE reports x86
+  even on x64 systems.\\r\\n    # To get the correct architecture, we need to
+  use PROCESSOR_ARCHITEW6432.\\r\\n    # PS x64 doesn't define this, so we fall
+  back to PROCESSOR_ARCHITECTURE.\\r\\n    # Possible values: amd64, x64, x86,
+  arm64, arm\\r\\n    if( $ENV:PROCESSOR_ARCHITEW6432 -ne $null )
+  {\\r\\n        return
+  $ENV:PROCESSOR_ARCHITEW6432\\r\\n    }\\r\\n\\r\\n    try
+  {        \\r\\n        if( ((Get-CimInstance -ClassName
+  CIM_OperatingSystem).OSArchitecture) -like \\\"ARM*\\\")
+  {\\r\\n            if( [Environment]::Is64BitOperatingSystem
+  )\\r\\n            {\\r\\n                return
+  \\\"arm64\\\"\\r\\n            }  \\r\\n            return
+  \\\"arm\\\"\\r\\n        }\\r\\n    }\\r\\n    catch {\\r\\n        # Machine
+  doesn't support Get-CimInstance\\r\\n    }\\r\\n\\r\\n    return
+  $ENV:PROCESSOR_ARCHITECTURE\\r\\n}\\r\\n\\r\\nfunction
+  Get-CLIArchitecture-From-Architecture([string]$Architecture)
+  {\\r\\n    Say-Invocation $MyInvocation\\r\\n\\r\\n    if ($Architecture -eq
+  \\\"<auto>\\\") {\\r\\n        $Architecture =
+  Get-Machine-Architecture\\r\\n    }\\r\\n\\r\\n    switch
+  ($Architecture.ToLowerInvariant()) {\\r\\n        { ($_ -eq \\\"amd64\\\") -or
+  ($_ -eq \\\"x64\\\") } { return \\\"x64\\\" }\\r\\n        { $_ -eq
+  \\\"x86\\\" } { return \\\"x86\\\" }\\r\\n        { $_ -eq \\\"arm\\\" } {
+  return \\\"arm\\\" }\\r\\n        { $_ -eq \\\"arm64\\\" } { return
+  \\\"arm64\\\" }\\r\\n        default { throw \\\"Architecture '$Architecture'
+  not supported. If you think this is a bug, report it at
+  https://github.com/dotnet/install-scripts/issues\\\"
+  }\\r\\n    }\\r\\n}\\r\\n\\r\\nfunction ValidateFeedCredential([string]
+  $FeedCredential)\\r\\n{\\r\\n    if ($Internal -and
+  [string]::IsNullOrWhitespace($FeedCredential)) {\\r\\n        $message =
+  \\\"Provide credentials via -FeedCredential parameter.\\\"\\r\\n        if
+  ($DryRun) {\\r\\n            Say-Warning \\\"$message\\\"\\r\\n        } else
+  {\\r\\n            throw
+  \\\"$message\\\"\\r\\n        }\\r\\n    }\\r\\n    \\r\\n    #FeedCredential
+  should start with \\\"?\\\", for it to be added to the end of the
+  link.\\r\\n    #adding \\\"?\\\" at the beginning of the FeedCredential if
+  needed.\\r\\n    if ((![string]::IsNullOrWhitespace($FeedCredential)) -and
+  ($FeedCredential[0] -ne '?')) {\\r\\n        $FeedCredential = \\\"?\\\" +
+  $FeedCredential\\r\\n    }\\r\\n\\r\\n    return
+  $FeedCredential\\r\\n}\\r\\nfunction Get-NormalizedQuality([string]$Quality)
+  {\\r\\n    Say-Invocation $MyInvocation\\r\\n\\r\\n    if
+  ([string]::IsNullOrEmpty($Quality)) {\\r\\n        return
+  \\\"\\\"\\r\\n    }\\r\\n\\r\\n    switch ($Quality) {\\r\\n        {
+  @(\\\"daily\\\", \\\"signed\\\", \\\"validated\\\", \\\"preview\\\") -contains
+  $_ } { return $Quality.ToLowerInvariant() }\\r\\n        #ga quality is
+  available without specifying quality, so normalizing it to
+  empty\\r\\n        { $_ -eq \\\"ga\\\" } { return \\\"\\\"
+  }\\r\\n        default { throw \\\"'$Quality' is not a supported value for
+  -Quality option. Supported values are: daily, signed, validated, preview, ga.
+  If you think this is a bug, report it at
+  https://github.com/dotnet/install-scripts/issues.\\\"
+  }\\r\\n    }\\r\\n}\\r\\n\\r\\nfunction
+  Get-NormalizedChannel([string]$Channel) {\\r\\n    Say-Invocation
+  $MyInvocation\\r\\n\\r\\n    if ([string]::IsNullOrEmpty($Channel))
+  {\\r\\n        return \\\"\\\"\\r\\n    }\\r\\n\\r\\n    if
+  ($Channel.Contains(\\\"Current\\\")) {\\r\\n        Say-Warning 'Value
+  \\\"Current\\\" is deprecated for -Channel option. Use \\\"STS\\\"
+  instead.'\\r\\n    }\\r\\n\\r\\n    if ($Channel.StartsWith('release/'))
+  {\\r\\n        Say-Warning 'Using branch name with -Channel option is no
+  longer supported with newer releases. Use -Quality option with a channel in
+  X.Y format instead, such as \\\"-Channel 5.0 -Quality
+  Daily.\\\"'\\r\\n    }\\r\\n\\r\\n    switch ($Channel) {\\r\\n        { $_
+  -eq \\\"lts\\\" } { return \\\"LTS\\\" }\\r\\n        { $_ -eq \\\"sts\\\" } {
+  return \\\"STS\\\" }\\r\\n        { $_ -eq \\\"current\\\" } { return
+  \\\"STS\\\" }\\r\\n        default { return $Channel.ToLowerInvariant()
+  }\\r\\n    }\\r\\n}\\r\\n\\r\\nfunction
+  Get-NormalizedProduct([string]$Runtime) {\\r\\n    Say-Invocation
+  $MyInvocation\\r\\n\\r\\n    switch ($Runtime) {\\r\\n        { $_ -eq
+  \\\"dotnet\\\" } { return \\\"dotnet-runtime\\\" }\\r\\n        { $_ -eq
+  \\\"aspnetcore\\\" } { return \\\"aspnetcore-runtime\\\" }\\r\\n        { $_
+  -eq \\\"windowsdesktop\\\" } { return \\\"windowsdesktop-runtime\\\"
+  }\\r\\n        { [string]::IsNullOrEmpty($_) } { return \\\"dotnet-sdk\\\"
+  }\\r\\n        default { throw \\\"'$Runtime' is not a supported value for
+  -Runtime option, supported values are: dotnet, aspnetcore, windowsdesktop. If
+  you think this is a bug, report it at
+  https://github.com/dotnet/install-scripts/issues.\\\"
+  }\\r\\n    }\\r\\n}\\r\\n\\r\\n\\r\\n# The version text returned from the
+  feeds is a 1-line or 2-line string:\\r\\n# For the SDK and the dotnet runtime
+  (2 lines):\\r\\n# Line 1: # commit_hash\\r\\n# Line 2: # 4-part version\\r\\n#
+  For the aspnetcore runtime (1 line):\\r\\n# Line 1: # 4-part
+  version\\r\\nfunction
+  Get-Version-From-LatestVersion-File-Content([string]$VersionText)
+  {\\r\\n    Say-Invocation $MyInvocation\\r\\n\\r\\n    $Data = -split
+  $VersionText\\r\\n\\r\\n    $VersionInfo = @{\\r\\n        CommitHash = $(if
+  ($Data.Count -gt 1) { $Data[0] })\\r\\n        Version = $Data[-1] # last line
+  is always the version number.\\r\\n    }\\r\\n    return
+  $VersionInfo\\r\\n}\\r\\n\\r\\nfunction Load-Assembly([string] $Assembly)
+  {\\r\\n    try {\\r\\n        Add-Type -Assembly $Assembly |
+  Out-Null\\r\\n    }\\r\\n    catch {\\r\\n        # On Nano Server, Powershell
+  Core Edition is used.  Add-Type is unable to resolve base class assemblies
+  because they are not GAC'd.\\r\\n        # Loading the base class assemblies
+  is not unnecessary as the types will automatically get
+  resolved.\\r\\n    }\\r\\n}\\r\\n\\r\\nfunction GetHTTPResponse([Uri] $Uri,
+  [bool]$HeaderOnly, [bool]$DisableRedirect,
+  [bool]$DisableFeedCredential)\\r\\n{\\r\\n    $cts = New-Object
+  System.Threading.CancellationTokenSource\\r\\n\\r\\n    $downloadScript =
+  {\\r\\n\\r\\n        $HttpClient = $null\\r\\n\\r\\n        try
+  {\\r\\n            # HttpClient is used vs Invoke-WebRequest in order to
+  support Nano Server which doesn't support the Invoke-WebRequest
+  cmdlet.\\r\\n            Load-Assembly -Assembly
+  System.Net.Http\\r\\n\\r\\n            if(-not $ProxyAddress)
+  {\\r\\n                try {\\r\\n                    # Despite no proxy being
+  explicitly specified, we may still be behind a default
+  proxy\\r\\n                    $DefaultProxy =
+  [System.Net.WebRequest]::DefaultWebProxy;\\r\\n                    if($Defaul\
+  tProxy -and (-not $DefaultProxy.IsBypassed($Uri)))
+  {\\r\\n                        if ($null -ne $DefaultProxy.GetProxy($Uri))
+  {\\r\\n                            $ProxyAddress =
+  $DefaultProxy.GetProxy($Uri).OriginalString\\r\\n                        }
+  else {\\r\\n                            $ProxyAddress =
+  $null\\r\\n                        }\\r\\n                        $ProxyUseDe\
+  faultCredentials = $true\\r\\n                    }\\r\\n                }
+  catch {\\r\\n                    # Eat the exception and move forward as the
+  above code is an attempt\\r\\n                    #    at resolving the
+  DefaultProxy that may not have been a
+  problem.\\r\\n                    $ProxyAddress =
+  $null\\r\\n                    Say-Verbose(\\\"Exception ignored:
+  $_.Exception.Message - moving
+  forward...\\\")\\r\\n                }\\r\\n            }\\r\\n\\r\\n            \
+  $HttpClientHandler = New-Object
+  System.Net.Http.HttpClientHandler\\r\\n            if($ProxyAddress)
+  {\\r\\n                $HttpClientHandler.Proxy =  New-Object
+  System.Net.WebProxy -Property
+  @{\\r\\n                    Address=$ProxyAddress;\\r\\n                    U\
+  seDefaultCredentials=$ProxyUseDefaultCredentials;\\r\\n                    By\
+  passList =
+  $ProxyBypassList;\\r\\n                }\\r\\n            }       \\r\\n            \
+  if
+  ($DisableRedirect)\\r\\n            {\\r\\n                $HttpClientHandler\
+  .AllowAutoRedirect = $false\\r\\n            }\\r\\n            $HttpClient =
+  New-Object System.Net.Http.HttpClient -ArgumentList
+  $HttpClientHandler\\r\\n\\r\\n            # Default timeout for HttpClient is
+  100s.  For a 50 MB download this assumes 500 KB/s average, any less will time
+  out\\r\\n            # Defaulting to 20 minutes allows it to work over much
+  slower connections.\\r\\n            $HttpClient.Timeout = New-TimeSpan
+  -Seconds $DownloadTimeout\\r\\n\\r\\n            if
+  ($HeaderOnly){\\r\\n                $completionOption =
+  [System.Net.Http.HttpCompletionOption]::ResponseHeadersRead\\r\\n            }\
+  \\r\\n            else {\\r\\n                $completionOption =
+  [System.Net.Http.HttpCompletionOption]::ResponseContentRead\\r\\n            }\
+  \\r\\n\\r\\n            if ($DisableFeedCredential)
+  {\\r\\n                $UriWithCredential =
+  $Uri\\r\\n            }\\r\\n            else
+  {\\r\\n                $UriWithCredential =
+  \\\"${Uri}${FeedCredential}\\\"\\r\\n            }\\r\\n\\r\\n            $Ta\
+  sk = $HttpClient.GetAsync(\\\"$UriWithCredential\\\",
+  $completionOption).ConfigureAwait(\\\"false\\\");\\r\\n            $Response =
+  $Task.GetAwaiter().GetResult();\\r\\n\\r\\n            if (($null -eq
+  $Response) -or ((-not $HeaderOnly) -and (-not
+  ($Response.IsSuccessStatusCode)))) {\\r\\n                # The feed
+  credential is potentially sensitive info. Do not log FeedCredential to console
+  output.\\r\\n                $DownloadException = [System.Exception]
+  \\\"Unable to download $Uri.\\\"\\r\\n\\r\\n                if ($null -ne
+  $Response)
+  {\\r\\n                    $DownloadException.Data[\\\"StatusCode\\\"] = [int]
+  $Response.StatusCode\\r\\n                    $DownloadException.Data[\\\"Err\
+  orMessage\\\"] = \\\"Unable to download $Uri. Returned HTTP status code: \\\"
+  +
+  $DownloadException.Data[\\\"StatusCode\\\"]\\r\\n\\r\\n                    if
+  (404 -eq [int]
+  $Response.StatusCode)\\r\\n                    {\\r\\n                        \
+  $cts.Cancel()\\r\\n                    }\\r\\n                }\\r\\n\\r\\n                \
+  throw $DownloadException\\r\\n            }\\r\\n\\r\\n            return
+  $Response\\r\\n        }\\r\\n        catch
+  [System.Net.Http.HttpRequestException] {\\r\\n            $DownloadException =
+  [System.Exception] \\\"Unable to download $Uri.\\\"\\r\\n\\r\\n            #
+  Pick up the exception message and inner exceptions' messages if they
+  exist\\r\\n            $CurrentException =
+  $PSItem.Exception\\r\\n            $ErrorMsg = $CurrentException.Message +
+  \\\"`r`n\\\"\\r\\n            while ($CurrentException.InnerException)
+  {\\r\\n              $CurrentException =
+  $CurrentException.InnerException\\r\\n              $ErrorMsg +=
+  $CurrentException.Message +
+  \\\"`r`n\\\"\\r\\n            }\\r\\n\\r\\n            # Check if there is an
+  issue concerning TLS.\\r\\n            if ($ErrorMsg -like \\\"*SSL/TLS*\\\")
+  {\\r\\n                $ErrorMsg += \\\"Ensure that TLS 1.2 or higher is
+  enabled to use this
+  script.`r`n\\\"\\r\\n            }\\r\\n\\r\\n            $DownloadException.\
+  Data[\\\"ErrorMessage\\\"] = $ErrorMsg\\r\\n            throw
+  $DownloadException\\r\\n        }\\r\\n        finally {\\r\\n             if
+  ($null -ne $HttpClient)
+  {\\r\\n                $HttpClient.Dispose()\\r\\n            }\\r\\n        }\
+  \\r\\n    }\\r\\n\\r\\n    try {\\r\\n        return Invoke-With-Retry
+  $downloadScript
+  $cts.Token\\r\\n    }\\r\\n    finally\\r\\n    {\\r\\n        if ($null -ne
+  $cts)\\r\\n        {\\r\\n            $cts.Dispose()\\r\\n        }\\r\\n    }\
+  \\r\\n}\\r\\n\\r\\nfunction
+  Get-Version-From-LatestVersion-File([string]$AzureFeed, [string]$Channel)
+  {\\r\\n    Say-Invocation $MyInvocation\\r\\n\\r\\n    $VersionFileUrl =
+  $null\\r\\n    if ($Runtime -eq \\\"dotnet\\\") {\\r\\n        $VersionFileUrl
+  =
+  \\\"$AzureFeed/Runtime/$Channel/latest.version\\\"\\r\\n    }\\r\\n    elseif
+  ($Runtime -eq \\\"aspnetcore\\\") {\\r\\n        $VersionFileUrl =
+  \\\"$AzureFeed/aspnetcore/Runtime/$Channel/latest.version\\\"\\r\\n    }\\r\\\
+  n    elseif ($Runtime -eq \\\"windowsdesktop\\\")
+  {\\r\\n        $VersionFileUrl =
+  \\\"$AzureFeed/WindowsDesktop/$Channel/latest.version\\\"\\r\\n    }\\r\\n    \
+  elseif (-not $Runtime) {\\r\\n        $VersionFileUrl =
+  \\\"$AzureFeed/Sdk/$Channel/latest.version\\\"\\r\\n    }\\r\\n    else
+  {\\r\\n        throw \\\"Invalid value for
+  `$Runtime\\\"\\r\\n    }\\r\\n\\r\\n    Say-Verbose \\\"Constructed
+  latest.version URL: $VersionFileUrl\\\"\\r\\n\\r\\n    try
+  {\\r\\n        $Response = GetHTTPResponse -Uri
+  $VersionFileUrl\\r\\n    }\\r\\n    catch {\\r\\n        Say-Verbose
+  \\\"Failed to download latest.version
+  file.\\\"\\r\\n        throw\\r\\n    }\\r\\n    $StringContent =
+  $Response.Content.ReadAsStringAsync().Result\\r\\n\\r\\n    switch
+  ($Response.Content.Headers.ContentType) {\\r\\n        { ($_ -eq
+  \\\"application/octet-stream\\\") } { $VersionText = $StringContent
+  }\\r\\n        { ($_ -eq \\\"text/plain\\\") } { $VersionText = $StringContent
+  }\\r\\n        { ($_ -eq \\\"text/plain; charset=UTF-8\\\") } { $VersionText =
+  $StringContent }\\r\\n        default { throw
+  \\\"``$Response.Content.Headers.ContentType`` is an unknown .version file
+  content type.\\\" }\\r\\n    }\\r\\n\\r\\n    $VersionInfo =
+  Get-Version-From-LatestVersion-File-Content $VersionText\\r\\n\\r\\n    return
+  $VersionInfo\\r\\n}\\r\\n\\r\\nfunction
+  Parse-Jsonfile-For-Version([string]$JSonFile) {\\r\\n    Say-Invocation
+  $MyInvocation\\r\\n\\r\\n    If (-Not (Test-Path $JSonFile))
+  {\\r\\n        throw \\\"Unable to find
+  '$JSonFile'\\\"\\r\\n    }\\r\\n    try {\\r\\n        $JSonContent =
+  Get-Content($JSonFile) -Raw | ConvertFrom-Json | Select-Object -expand
+  \\\"sdk\\\" -ErrorAction SilentlyContinue\\r\\n    }\\r\\n    catch
+  {\\r\\n        Say-Error \\\"Json file unreadable:
+  '$JSonFile'\\\"\\r\\n        throw\\r\\n    }\\r\\n    if ($JSonContent)
+  {\\r\\n        try {\\r\\n            $JSonContent.PSObject.Properties |
+  ForEach-Object {\\r\\n                $PropertyName =
+  $_.Name\\r\\n                if ($PropertyName -eq \\\"version\\\")
+  {\\r\\n                    $Version =
+  $_.Value\\r\\n                    Say-Verbose \\\"Version =
+  $Version\\\"\\r\\n                }\\r\\n            }\\r\\n        }\\r\\n        \
+  catch {\\r\\n            Say-Error \\\"Unable to parse the SDK node in
+  '$JSonFile'\\\"\\r\\n            throw\\r\\n        }\\r\\n    }\\r\\n    else
+  {\\r\\n        throw \\\"Unable to find the SDK node in
+  '$JSonFile'\\\"\\r\\n    }\\r\\n    If ($Version -eq $null)
+  {\\r\\n        throw \\\"Unable to find the SDK:version node in
+  '$JSonFile'\\\"\\r\\n    }\\r\\n    return $Version\\r\\n}\\r\\n\\r\\nfunction
+  Get-Specific-Version-From-Version([string]$AzureFeed, [string]$Channel,
+  [string]$Version, [string]$JSonFile) {\\r\\n    Say-Invocation
+  $MyInvocation\\r\\n\\r\\n    if (-not $JSonFile) {\\r\\n        if
+  ($Version.ToLowerInvariant() -eq \\\"latest\\\")
+  {\\r\\n            $LatestVersionInfo = Get-Version-From-LatestVersion-File
+  -AzureFeed $AzureFeed -Channel $Channel\\r\\n            return
+  $LatestVersionInfo.Version\\r\\n        }\\r\\n        else
+  {\\r\\n            return $Version \\r\\n        }\\r\\n    }\\r\\n    else
+  {\\r\\n        return Parse-Jsonfile-For-Version
+  $JSonFile\\r\\n    }\\r\\n}\\r\\n\\r\\nfunction
+  Get-Download-Link([string]$AzureFeed, [string]$SpecificVersion,
+  [string]$CLIArchitecture) {\\r\\n    Say-Invocation
+  $MyInvocation\\r\\n\\r\\n    # If anything fails in this lookup it will
+  default to $SpecificVersion\\r\\n    $SpecificProductVersion =
+  Get-Product-Version -AzureFeed $AzureFeed -SpecificVersion
+  $SpecificVersion\\r\\n\\r\\n    if ($Runtime -eq \\\"dotnet\\\")
+  {\\r\\n        $PayloadURL =
+  \\\"$AzureFeed/Runtime/$SpecificVersion/dotnet-runtime-$SpecificProductVersio\
+  n-win-$CLIArchitecture.zip\\\"\\r\\n    }\\r\\n    elseif ($Runtime -eq
+  \\\"aspnetcore\\\") {\\r\\n        $PayloadURL =
+  \\\"$AzureFeed/aspnetcore/Runtime/$SpecificVersion/aspnetcore-runtime-$Specif\
+  icProductVersion-win-$CLIArchitecture.zip\\\"\\r\\n    }\\r\\n    elseif
+  ($Runtime -eq \\\"windowsdesktop\\\") {\\r\\n        # The windows desktop
+  runtime is part of the core runtime layout prior to
+  5.0\\r\\n        $PayloadURL =
+  \\\"$AzureFeed/Runtime/$SpecificVersion/windowsdesktop-runtime-$SpecificProdu\
+  ctVersion-win-$CLIArchitecture.zip\\\"\\r\\n        if ($SpecificVersion
+  -match '^(\\\\d+)\\\\.(.*)$')\\r\\n        {\\r\\n            $majorVersion =
+  [int]$Matches[1]\\r\\n            if ($majorVersion -ge
+  5)\\r\\n            {\\r\\n                $PayloadURL =
+  \\\"$AzureFeed/WindowsDesktop/$SpecificVersion/windowsdesktop-runtime-$Specif\
+  icProductVersion-win-$CLIArchitecture.zip\\\"\\r\\n            }\\r\\n        \
+  }\\r\\n    }\\r\\n    elseif (-not $Runtime) {\\r\\n        $PayloadURL =
+  \\\"$AzureFeed/Sdk/$SpecificVersion/dotnet-sdk-$SpecificProductVersion-win-$C\
+  LIArchitecture.zip\\\"\\r\\n    }\\r\\n    else {\\r\\n        throw
+  \\\"Invalid value for `$Runtime\\\"\\r\\n    }\\r\\n\\r\\n    Say-Verbose
+  \\\"Constructed primary named payload URL:
+  $PayloadURL\\\"\\r\\n\\r\\n    return $PayloadURL,
+  $SpecificProductVersion\\r\\n}\\r\\n\\r\\nfunction
+  Get-LegacyDownload-Link([string]$AzureFeed, [string]$SpecificVersion,
+  [string]$CLIArchitecture) {\\r\\n    Say-Invocation
+  $MyInvocation\\r\\n\\r\\n    if (-not $Runtime) {\\r\\n        $PayloadURL =
+  \\\"$AzureFeed/Sdk/$SpecificVersion/dotnet-dev-win-$CLIArchitecture.$Specific\
+  Version.zip\\\"\\r\\n    }\\r\\n    elseif ($Runtime -eq \\\"dotnet\\\")
+  {\\r\\n        $PayloadURL =
+  \\\"$AzureFeed/Runtime/$SpecificVersion/dotnet-win-$CLIArchitecture.$Specific\
+  Version.zip\\\"\\r\\n    }\\r\\n    else {\\r\\n        return
+  $null\\r\\n    }\\r\\n\\r\\n    Say-Verbose \\\"Constructed legacy named
+  payload URL: $PayloadURL\\\"\\r\\n\\r\\n    return
+  $PayloadURL\\r\\n}\\r\\n\\r\\nfunction Get-Product-Version([string]$AzureFeed,
+  [string]$SpecificVersion, [string]$PackageDownloadLink)
+  {\\r\\n    Say-Invocation $MyInvocation\\r\\n\\r\\n    # Try to get the
+  version number, using the productVersion.txt file located next to the
+  installer file.\\r\\n    $ProductVersionTxtURLs = (Get-Product-Version-Url
+  $AzureFeed $SpecificVersion $PackageDownloadLink -Flattened
+  $true),\\r\\n                             (Get-Product-Version-Url $AzureFeed
+  $SpecificVersion $PackageDownloadLink -Flattened
+  $false)\\r\\n    \\r\\n    Foreach ($ProductVersionTxtURL in
+  $ProductVersionTxtURLs) {\\r\\n        Say-Verbose \\\"Checking for the
+  existence of $ProductVersionTxtURL\\\"\\r\\n\\r\\n        try
+  {\\r\\n            $productVersionResponse =
+  GetHTTPResponse($productVersionTxtUrl)\\r\\n\\r\\n            if
+  ($productVersionResponse.StatusCode -eq 200)
+  {\\r\\n                $productVersion =
+  $productVersionResponse.Content.ReadAsStringAsync().Result.Trim()\\r\\n                \
+  if ($productVersion -ne
+  $SpecificVersion)\\r\\n                {\\r\\n                    Say
+  \\\"Using alternate version $productVersion found in
+  $ProductVersionTxtURL\\\"\\r\\n                }\\r\\n                return
+  $productVersion\\r\\n            }\\r\\n            else
+  {\\r\\n                Say-Verbose \\\"Got StatusCode
+  $($productVersionResponse.StatusCode) when trying to get productVersion.txt at
+  $productVersionTxtUrl.\\\"\\r\\n            }\\r\\n        }
+  \\r\\n        catch {\\r\\n            Say-Verbose \\\"Could not read
+  productVersion.txt at $productVersionTxtUrl (Exception:
+  '$($_.Exception.Message)'. )\\\"\\r\\n        }\\r\\n    }\\r\\n\\r\\n    #
+  Getting the version number with productVersion.txt has failed. Try parsing the
+  download link for a version number.\\r\\n    if
+  ([string]::IsNullOrEmpty($PackageDownloadLink))\\r\\n    {\\r\\n        Say-V\
+  erbose \\\"Using the default value '$SpecificVersion' as the product
+  version.\\\"\\r\\n        return
+  $SpecificVersion\\r\\n    }\\r\\n\\r\\n    $productVersion =
+  Get-ProductVersionFromDownloadLink $PackageDownloadLink
+  $SpecificVersion\\r\\n    return $productVersion\\r\\n}\\r\\n\\r\\nfunction
+  Get-Product-Version-Url([string]$AzureFeed, [string]$SpecificVersion,
+  [string]$PackageDownloadLink, [bool]$Flattened) {\\r\\n    Say-Invocation
+  $MyInvocation\\r\\n\\r\\n    $majorVersion=$null\\r\\n    if ($SpecificVersion
+  -match '^(\\\\d+)\\\\.(.*)') {\\r\\n        $majorVersion = $Matches[1]
+  -as[int]\\r\\n    }\\r\\n\\r\\n    $pvFileName='productVersion.txt'\\r\\n    \
+  if($Flattened) {\\r\\n        if(-not $Runtime)
+  {\\r\\n            $pvFileName='sdk-productVersion.txt'\\r\\n        }\\r\\n        \
+  elseif($Runtime -eq \\\"dotnet\\\")
+  {\\r\\n            $pvFileName='runtime-productVersion.txt'\\r\\n        }\\r\
+  \\n        else
+  {\\r\\n            $pvFileName=\\\"$Runtime-productVersion.txt\\\"\\r\\n        \
+  }\\r\\n    }\\r\\n\\r\\n    if ([string]::IsNullOrEmpty($PackageDownloadLink))
+  {\\r\\n        if ($Runtime -eq \\\"dotnet\\\")
+  {\\r\\n            $ProductVersionTxtURL =
+  \\\"$AzureFeed/Runtime/$SpecificVersion/$pvFileName\\\"\\r\\n        }\\r\\n        \
+  elseif ($Runtime -eq \\\"aspnetcore\\\")
+  {\\r\\n            $ProductVersionTxtURL =
+  \\\"$AzureFeed/aspnetcore/Runtime/$SpecificVersion/$pvFileName\\\"\\r\\n        \
+  }\\r\\n        elseif ($Runtime -eq \\\"windowsdesktop\\\")
+  {\\r\\n            # The windows desktop runtime is part of the core runtime
+  layout prior to 5.0\\r\\n            $ProductVersionTxtURL =
+  \\\"$AzureFeed/Runtime/$SpecificVersion/$pvFileName\\\"\\r\\n            if
+  ($majorVersion -ne $null -and $majorVersion -ge 5)
+  {\\r\\n                $ProductVersionTxtURL =
+  \\\"$AzureFeed/WindowsDesktop/$SpecificVersion/$pvFileName\\\"\\r\\n            \
+  }\\r\\n        }\\r\\n        elseif (-not $Runtime)
+  {\\r\\n            $ProductVersionTxtURL =
+  \\\"$AzureFeed/Sdk/$SpecificVersion/$pvFileName\\\"\\r\\n        }\\r\\n        \
+  else {\\r\\n            throw \\\"Invalid value '$Runtime' specified for
+  `$Runtime\\\"\\r\\n        }\\r\\n    }\\r\\n    else
+  {\\r\\n        $ProductVersionTxtURL = $PackageDownloadLink.Substring(0,
+  $PackageDownloadLink.LastIndexOf(\\\"/\\\"))  +
+  \\\"/$pvFileName\\\"\\r\\n    }\\r\\n\\r\\n    Say-Verbose \\\"Constructed
+  productVersion link: $ProductVersionTxtURL\\\"\\r\\n\\r\\n    return
+  $ProductVersionTxtURL\\r\\n}\\r\\n\\r\\nfunction
+  Get-ProductVersionFromDownloadLink([string]$PackageDownloadLink,
+  [string]$SpecificVersion)\\r\\n{\\r\\n    Say-Invocation
+  $MyInvocation\\r\\n\\r\\n    #product specific version follows the product
+  name\\r\\n    #for filename 'dotnet-sdk-3.1.404-win-x64.zip': the product
+  version is 3.1.400\\r\\n    $filename =
+  $PackageDownloadLink.Substring($PackageDownloadLink.LastIndexOf(\\\"/\\\") +
+  1)\\r\\n    $filenameParts = $filename.Split('-')\\r\\n    if
+  ($filenameParts.Length -gt 2)\\r\\n    {\\r\\n        $productVersion =
+  $filenameParts[2]\\r\\n        Say-Verbose \\\"Extracted product version
+  '$productVersion' from download link
+  '$PackageDownloadLink'.\\\"\\r\\n    }\\r\\n    else
+  {\\r\\n        Say-Verbose \\\"Using the default value '$SpecificVersion' as
+  the product version.\\\"\\r\\n        $productVersion =
+  $SpecificVersion\\r\\n    }\\r\\n    return $productVersion
+  \\r\\n}\\r\\n\\r\\nfunction Get-User-Share-Path() {\\r\\n    Say-Invocation
+  $MyInvocation\\r\\n\\r\\n    $InstallRoot =
+  $env:DOTNET_INSTALL_DIR\\r\\n    if (!$InstallRoot)
+  {\\r\\n        $InstallRoot =
+  \\\"$env:LocalAppData\\\\Microsoft\\\\dotnet\\\"\\r\\n    }\\r\\n    return
+  $InstallRoot\\r\\n}\\r\\n\\r\\nfunction
+  Resolve-Installation-Path([string]$InstallDir) {\\r\\n    Say-Invocation
+  $MyInvocation\\r\\n\\r\\n    if ($InstallDir -eq \\\"<auto>\\\")
+  {\\r\\n        return Get-User-Share-Path\\r\\n    }\\r\\n    return
+  $InstallDir\\r\\n}\\r\\n\\r\\nfunction
+  Is-Dotnet-Package-Installed([string]$InstallRoot,
+  [string]$RelativePathToPackage, [string]$SpecificVersion)
+  {\\r\\n    Say-Invocation $MyInvocation\\r\\n\\r\\n    $DotnetPackagePath =
+  Join-Path -Path $InstallRoot -ChildPath $RelativePathToPackage | Join-Path
+  -ChildPath $SpecificVersion\\r\\n    Say-Verbose
+  \\\"Is-Dotnet-Package-Installed:
+  DotnetPackagePath=$DotnetPackagePath\\\"\\r\\n    return Test-Path
+  $DotnetPackagePath -PathType Container\\r\\n}\\r\\n\\r\\nfunction
+  Get-Absolute-Path([string]$RelativeOrAbsolutePath) {\\r\\n    # Too much
+  spam\\r\\n    # Say-Invocation $MyInvocation\\r\\n\\r\\n    return
+  $ExecutionContext.SessionState.Path.GetUnresolvedProviderPathFromPSPath($Rela\
+  tiveOrAbsolutePath)\\r\\n}\\r\\n\\r\\nfunction
+  Get-Path-Prefix-With-Version($path) {\\r\\n    # example path with regex:
+  shared/1.0.0-beta-12345/somepath\\r\\n    $match = [regex]::match($path,
+  \\\"/\\\\d+\\\\.\\\\d+[^/]+/\\\")\\r\\n    if ($match.Success)
+  {\\r\\n        return $entry.FullName.Substring(0, $match.Index +
+  $match.Length)\\r\\n    }\\r\\n\\r\\n    return
+  $null\\r\\n}\\r\\n\\r\\nfunction
+  Get-List-Of-Directories-And-Versions-To-Unpack-From-Dotnet-Package([System.IO\
+  .Compression.ZipArchive]$Zip, [string]$OutPath) {\\r\\n    Say-Invocation
+  $MyInvocation\\r\\n\\r\\n    $ret = @()\\r\\n    foreach ($entry in
+  $Zip.Entries) {\\r\\n        $dir = Get-Path-Prefix-With-Version
+  $entry.FullName\\r\\n        if ($null -ne $dir) {\\r\\n            $path =
+  Get-Absolute-Path $(Join-Path -Path $OutPath -ChildPath
+  $dir)\\r\\n            if (-Not (Test-Path $path -PathType Container))
+  {\\r\\n                $ret +=
+  $dir\\r\\n            }\\r\\n        }\\r\\n    }\\r\\n\\r\\n    $ret = $ret |
+  Sort-Object | Get-Unique\\r\\n\\r\\n    $values = ($ret | foreach { \\\"$_\\\"
+  }) -join \\\";\\\"\\r\\n    Say-Verbose \\\"Directories to unpack:
+  $values\\\"\\r\\n\\r\\n    return $ret\\r\\n}\\r\\n\\r\\n# Example zip content
+  and extraction algorithm:\\r\\n# Rule: files if extracted are always being
+  extracted to the same relative path locally\\r\\n#
+  .\\\\\\r\\n#       a.exe   # file does not exist locally,
+  extract\\r\\n#       b.dll   # file exists locally, override only if
+  $OverrideFiles set\\r\\n#       aaa\\\\    # same rules as for
+  files\\r\\n#           ...\\r\\n#       abc\\\\1.0.0\\\\  # directory contains
+  version and exists locally\\r\\n#           ...     # do not extract content
+  under versioned part\\r\\n#       abc\\\\asd\\\\    # same rules as for
+  files\\r\\n#            ...\\r\\n#       def\\\\ghi\\\\1.0.1\\\\  # directory
+  contains version and does not exist locally\\r\\n#           ...         #
+  extract content\\r\\nfunction Extract-Dotnet-Package([string]$ZipPath,
+  [string]$OutPath) {\\r\\n    Say-Invocation
+  $MyInvocation\\r\\n\\r\\n    Load-Assembly -Assembly
+  System.IO.Compression.FileSystem\\r\\n    Set-Variable -Name Zip\\r\\n    try
+  {\\r\\n        $Zip =
+  [System.IO.Compression.ZipFile]::OpenRead($ZipPath)\\r\\n\\r\\n        $Direc\
+  toriesToUnpack =
+  Get-List-Of-Directories-And-Versions-To-Unpack-From-Dotnet-Package -Zip $Zip
+  -OutPath $OutPath\\r\\n\\r\\n        foreach ($entry in $Zip.Entries)
+  {\\r\\n            $PathWithVersion = Get-Path-Prefix-With-Version
+  $entry.FullName\\r\\n            if (($null -eq $PathWithVersion) -Or
+  ($DirectoriesToUnpack -contains $PathWithVersion))
+  {\\r\\n                $DestinationPath = Get-Absolute-Path $(Join-Path -Path
+  $OutPath -ChildPath $entry.FullName)\\r\\n                $DestinationDir =
+  Split-Path -Parent
+  $DestinationPath\\r\\n                $OverrideFiles=$OverrideNonVersionedFil\
+  es -Or (-Not (Test-Path $DestinationPath))\\r\\n                if ((-Not
+  $DestinationPath.EndsWith(\\\"\\\\\\\")) -And $OverrideFiles)
+  {\\r\\n                    New-Item -ItemType Directory -Force -Path
+  $DestinationDir |
+  Out-Null\\r\\n                    [System.IO.Compression.ZipFileExtensions]::\
+  ExtractToFile($entry, $DestinationPath,
+  $OverrideNonVersionedFiles)\\r\\n                }\\r\\n            }\\r\\n        \
+  }\\r\\n    }\\r\\n    catch\\r\\n    {\\r\\n        Say-Error \\\"Failed to
+  extract package. Exception:
+  $_\\\"\\r\\n        throw;\\r\\n    }\\r\\n    finally {\\r\\n        if
+  ($null -ne $Zip)
+  {\\r\\n            $Zip.Dispose()\\r\\n        }\\r\\n    }\\r\\n}\\r\\n\\r\\\
+  nfunction DownloadFile($Source, [string]$OutPath) {\\r\\n    if ($Source
+  -notlike \\\"http*\\\") {\\r\\n        #  Using System.IO.Path.GetFullPath to
+  get the current directory\\r\\n        #    does not work in this context -
+  $pwd gives the current directory\\r\\n        if
+  (![System.IO.Path]::IsPathRooted($Source)) {\\r\\n            $Source =
+  $(Join-Path -Path $pwd -ChildPath $Source)\\r\\n        }\\r\\n        $Source
+  = Get-Absolute-Path $Source\\r\\n        Say \\\"Copying file from $Source to
+  $OutPath\\\"\\r\\n        Copy-Item $Source
+  $OutPath\\r\\n        return\\r\\n    }\\r\\n\\r\\n    $Stream =
+  $null\\r\\n    \\r\\n    try {\\r\\n        $Response = GetHTTPResponse -Uri
+  $Source\\r\\n        $Stream =
+  $Response.Content.ReadAsStreamAsync().Result\\r\\n        $File =
+  [System.IO.File]::Create($OutPath)\\r\\n        $Stream.CopyTo($File)\\r\\n        \
+  $File.Close()\\r\\n\\r\\n        ValidateRemoteLocalFileSizes
+  -LocalFileOutPath $OutPath -SourceUri $Source\\r\\n    }\\r\\n    finally
+  {\\r\\n        if ($null -ne $Stream)
+  {\\r\\n            $Stream.Dispose()\\r\\n        }\\r\\n    }\\r\\n}\\r\\n\\r\
+  \\nfunction ValidateRemoteLocalFileSizes([string]$LocalFileOutPath,
+  $SourceUri) {\\r\\n    try {\\r\\n        $remoteFileSize =
+  Get-Remote-File-Size -zipUri $SourceUri\\r\\n        $fileSize =
+  [long](Get-Item $LocalFileOutPath).Length\\r\\n        Say \\\"Downloaded file
+  $SourceUri size is $fileSize bytes.\\\"\\r\\n    \\r\\n        if
+  ((![string]::IsNullOrEmpty($remoteFileSize)) -and
+  !([string]::IsNullOrEmpty($fileSize)) ) {\\r\\n            if ($remoteFileSize
+  -ne $fileSize) {\\r\\n                Say \\\"The remote and local file sizes
+  are not equal. Remote file size is $remoteFileSize bytes and local size is
+  $fileSize bytes. The local package may be
+  corrupted.\\\"\\r\\n            }\\r\\n            else
+  {\\r\\n                Say \\\"The remote and local file sizes are
+  equal.\\\"\\r\\n            }   \\r\\n        }\\r\\n        else
+  {\\r\\n            Say \\\"Either downloaded or local package size can not be
+  measured. One of them may be
+  corrupted.\\\"\\r\\n        }\\r\\n    }\\r\\n    catch {\\r\\n        Say
+  \\\"Either downloaded or local package size can not be measured. One of them
+  may be corrupted.\\\"\\r\\n    }\\r\\n}\\r\\n\\r\\nfunction
+  SafeRemoveFile($Path) {\\r\\n    try {\\r\\n        if (Test-Path $Path)
+  {\\r\\n            Remove-Item $Path\\r\\n            Say-Verbose \\\"The
+  temporary file `\\\"$Path`\\\" was
+  removed.\\\"\\r\\n        }\\r\\n        else {\\r\\n            Say-Verbose
+  \\\"The temporary file `\\\"$Path`\\\" does not exist, therefore is not
+  removed.\\\"\\r\\n        }\\r\\n    }\\r\\n    catch
+  {\\r\\n        Say-Warning \\\"Failed to remove the temporary file:
+  `\\\"$Path`\\\", remove it manually.\\\"\\r\\n    }\\r\\n}\\r\\n\\r\\nfunction
+  Prepend-Sdk-InstallRoot-To-Path([string]$InstallRoot) {\\r\\n    $BinPath =
+  Get-Absolute-Path $(Join-Path -Path $InstallRoot -ChildPath
+  \\\"\\\")\\r\\n    if (-Not $NoPath) {\\r\\n        $SuffixedBinPath =
+  \\\"$BinPath;\\\"\\r\\n        if (-Not $env:path.Contains($SuffixedBinPath))
+  {\\r\\n            Say \\\"Adding to current process PATH: `\\\"$BinPath`\\\".
+  Note: This change will not be visible if PowerShell was run as a child
+  process.\\\"\\r\\n            $env:path = $SuffixedBinPath +
+  $env:path\\r\\n        } else {\\r\\n            Say-Verbose \\\"Current
+  process PATH already contains
+  `\\\"$BinPath`\\\"\\\"\\r\\n        }\\r\\n    }\\r\\n    else
+  {\\r\\n        Say \\\"Binaries of dotnet can be found in
+  $BinPath\\\"\\r\\n    }\\r\\n}\\r\\n\\r\\nfunction
+  PrintDryRunOutput($Invocation, $DownloadLinks)\\r\\n{\\r\\n    Say \\\"Payload
+  URLs:\\\"\\r\\n    \\r\\n    for ($linkIndex=0; $linkIndex -lt
+  $DownloadLinks.count; $linkIndex++) {\\r\\n        Say \\\"URL #$linkIndex -
+  $($DownloadLinks[$linkIndex].type):
+  $($DownloadLinks[$linkIndex].downloadLink)\\\"\\r\\n    }\\r\\n    $Repeatabl\
+  eCommand = \\\".\\\\$ScriptName -Version `\\\"$SpecificVersion`\\\"
+  -InstallDir `\\\"$InstallRoot`\\\" -Architecture
+  `\\\"$CLIArchitecture`\\\"\\\"\\r\\n    if ($Runtime -eq \\\"dotnet\\\")
+  {\\r\\n       $RepeatableCommand+=\\\" -Runtime
+  `\\\"dotnet`\\\"\\\"\\r\\n    }\\r\\n    elseif ($Runtime -eq
+  \\\"aspnetcore\\\") {\\r\\n       $RepeatableCommand+=\\\" -Runtime
+  `\\\"aspnetcore`\\\"\\\"\\r\\n    }\\r\\n\\r\\n    foreach ($key in
+  $Invocation.BoundParameters.Keys) {\\r\\n        if (-not
+  (@(\\\"Architecture\\\",\\\"Channel\\\",\\\"DryRun\\\",\\\"InstallDir\\\",\\\
+  \"Runtime\\\",\\\"SharedRuntime\\\",\\\"Version\\\",\\\"Quality\\\",\\\"FeedC\
+  redential\\\") -contains $key)) {\\r\\n            $RepeatableCommand+=\\\"
+  -$key
+  `\\\"$($Invocation.BoundParameters[$key])`\\\"\\\"\\r\\n        }\\r\\n    }\
+  \\r\\n    if ($Invocation.BoundParameters.Keys -contains
+  \\\"FeedCredential\\\") {\\r\\n        $RepeatableCommand+=\\\"
+  -FeedCredential `\\\"<feedCredential>`\\\"\\\"\\r\\n    }\\r\\n    Say
+  \\\"Repeatable invocation: $RepeatableCommand\\\"\\r\\n    if
+  ($SpecificVersion -ne $EffectiveVersion)\\r\\n    {\\r\\n        Say \\\"NOTE:
+  Due to finding a version manifest with this runtime, it would actually install
+  with version '$EffectiveVersion'\\\"\\r\\n    }\\r\\n}\\r\\n\\r\\nfunction
+  Get-AkaMSDownloadLink([string]$Channel, [string]$Quality, [bool]$Internal,
+  [string]$Product, [string]$Architecture) {\\r\\n    Say-Invocation
+  $MyInvocation \\r\\n\\r\\n    #quality is not supported for LTS or STS
+  channel\\r\\n    if (![string]::IsNullOrEmpty($Quality) -and (@(\\\"LTS\\\",
+  \\\"STS\\\") -contains $Channel)) {\\r\\n        $Quality =
+  \\\"\\\"\\r\\n        Say-Warning \\\"Specifying quality for STS or LTS
+  channel is not supported, the quality will be
+  ignored.\\\"\\r\\n    }\\r\\n    Say-Verbose \\\"Retrieving primary payload
+  URL from aka.ms link for channel: '$Channel', quality: '$Quality' product:
+  '$Product', os: 'win', architecture: '$Architecture'.\\\"
+  \\r\\n   \\r\\n    #construct aka.ms link\\r\\n    $akaMsLink =
+  \\\"https://aka.ms/dotnet\\\"\\r\\n    if ($Internal)
+  {\\r\\n        $akaMsLink += \\\"/internal\\\"\\r\\n    }\\r\\n    $akaMsLink
+  += \\\"/$Channel\\\"\\r\\n    if (-not [string]::IsNullOrEmpty($Quality))
+  {\\r\\n        $akaMsLink +=\\\"/$Quality\\\"\\r\\n    }\\r\\n    $akaMsLink
+  +=\\\"/$Product-win-$Architecture.zip\\\"\\r\\n    Say-Verbose  \\\"Construct\
+  ed aka.ms link:
+  '$akaMsLink'.\\\"\\r\\n    $akaMsDownloadLink=$null\\r\\n\\r\\n    for
+  ($maxRedirections = 9; $maxRedirections -ge 0;
+  $maxRedirections--)\\r\\n    {\\r\\n        #get HTTP
+  response\\r\\n        #do not pass credentials as a part of the $akaMsLink and
+  do not apply credentials in the GetHTTPResponse
+  function\\r\\n        #otherwise the redirect link would have credentials as
+  well\\r\\n        #it would result in applying credentials twice to the
+  resulting link and thus breaking it, and in echoing credentials to the output
+  as a part of redirect link\\r\\n        $Response= GetHTTPResponse -Uri
+  $akaMsLink -HeaderOnly $true -DisableRedirect $true -DisableFeedCredential
+  $true\\r\\n        Say-Verbose \\\"Received
+  response:`n$Response\\\"\\r\\n\\r\\n        if
+  ([string]::IsNullOrEmpty($Response)) {\\r\\n            Say-Verbose \\\"The
+  link '$akaMsLink' is not valid: failed to get redirect location. The resource
+  is not available.\\\"\\r\\n            return
+  $null\\r\\n        }\\r\\n\\r\\n        #if HTTP code is 301 (Moved
+  Permanently), the redirect link exists\\r\\n        if  ($Response.StatusCode
+  -eq 301)\\r\\n        {\\r\\n            try
+  {\\r\\n                $akaMsDownloadLink =
+  $Response.Headers.GetValues(\\\"Location\\\")[0]\\r\\n\\r\\n                if
+  ([string]::IsNullOrEmpty($akaMsDownloadLink))
+  {\\r\\n                    Say-Verbose \\\"The link '$akaMsLink' is not valid:
+  server returned 301 (Moved Permanently), but the headers do not contain the
+  redirect location.\\\"\\r\\n                    return
+  $null\\r\\n                }\\r\\n\\r\\n                Say-Verbose \\\"The
+  redirect location retrieved: '$akaMsDownloadLink'.\\\"\\r\\n                #
+  This may yet be a link to another redirection. Attempt to retrieve the page
+  again.\\r\\n                $akaMsLink =
+  $akaMsDownloadLink\\r\\n                continue\\r\\n            }\\r\\n            \
+  catch {\\r\\n                Say-Verbose \\\"The link '$akaMsLink' is not
+  valid: failed to get redirect location.\\\"\\r\\n                return
+  $null\\r\\n            }\\r\\n        }\\r\\n        elseif
+  ((($Response.StatusCode -lt 300) -or ($Response.StatusCode -ge 400)) -and
+  (-not
+  [string]::IsNullOrEmpty($akaMsDownloadLink)))\\r\\n        {\\r\\n            \
+  # Redirections have ended.\\r\\n            return
+  $akaMsDownloadLink\\r\\n        }\\r\\n\\r\\n        Say-Verbose \\\"The link
+  '$akaMsLink' is not valid: failed to retrieve the redirection
+  location.\\\"\\r\\n        return $null\\r\\n    }\\r\\n\\r\\n    Say-Verbose
+  \\\"Aka.ms links have redirected more than the maximum allowed redirections.
+  This may be caused by a cyclic redirection of aka.ms
+  links.\\\"\\r\\n    return $null\\r\\n\\r\\n}\\r\\n\\r\\nfunction
+  Get-AkaMsLink-And-Version([string] $NormalizedChannel, [string]
+  $NormalizedQuality, [bool] $Internal, [string] $ProductName, [string]
+  $Architecture) {\\r\\n    $AkaMsDownloadLink = Get-AkaMSDownloadLink -Channel
+  $NormalizedChannel -Quality $NormalizedQuality -Internal $Internal -Product
+  $ProductName -Architecture $Architecture\\r\\n   \\r\\n    if
+  ([string]::IsNullOrEmpty($AkaMsDownloadLink)){\\r\\n        if (-not
+  [string]::IsNullOrEmpty($NormalizedQuality)) {\\r\\n            # if quality
+  is specified - exit with error - there is no fallback
+  approach\\r\\n            Say-Error \\\"Failed to locate the latest version in
+  the channel '$NormalizedChannel' with '$NormalizedQuality' quality for
+  '$ProductName', os: 'win', architecture:
+  '$Architecture'.\\\"\\r\\n            Say-Error \\\"Refer to:
+  https://aka.ms/dotnet-os-lifecycle for information on .NET Core
+  support.\\\"\\r\\n            throw \\\"aka.ms link resolution
+  failure\\\"\\r\\n        }\\r\\n        Say-Verbose \\\"Falling back to
+  latest.version file approach.\\\"\\r\\n        return ($null, $null,
+  $null)\\r\\n    }\\r\\n    else {\\r\\n        Say-Verbose \\\"Retrieved
+  primary named payload URL from aka.ms link:
+  '$AkaMsDownloadLink'.\\\"\\r\\n        Say-Verbose  \\\"Downloading using
+  legacy url will not be attempted.\\\"\\r\\n\\r\\n        #get version from the
+  path\\r\\n        $pathParts = $AkaMsDownloadLink.Split('/')\\r\\n        if
+  ($pathParts.Length -ge 2) { \\r\\n            $SpecificVersion =
+  $pathParts[$pathParts.Length - 2]\\r\\n            Say-Verbose \\\"Version:
+  '$SpecificVersion'.\\\"\\r\\n        }\\r\\n        else
+  {\\r\\n            Say-Error \\\"Failed to extract the version from download
+  link '$AkaMsDownloadLink'.\\\"\\r\\n            return ($null, $null,
+  $null)\\r\\n        }\\r\\n\\r\\n        #retrieve effective (product)
+  version\\r\\n        $EffectiveVersion = Get-Product-Version -SpecificVersion
+  $SpecificVersion -PackageDownloadLink
+  $AkaMsDownloadLink\\r\\n        Say-Verbose \\\"Product version:
+  '$EffectiveVersion'.\\\"\\r\\n\\r\\n        return ($AkaMsDownloadLink,
+  $SpecificVersion, $EffectiveVersion);\\r\\n    }\\r\\n}\\r\\n\\r\\nfunction
+  Get-Feeds-To-Use()\\r\\n{\\r\\n    $feeds =
+  @(\\r\\n    \\\"https://dotnetcli.azureedge.net/dotnet\\\",\\r\\n    \\\"http\
+  s://dotnetbuilds.azureedge.net/public\\\"\\r\\n    )\\r\\n\\r\\n    if (-not
+  [string]::IsNullOrEmpty($AzureFeed)) {\\r\\n        $feeds =
+  @($AzureFeed)\\r\\n    }\\r\\n\\r\\n    if ($NoCdn) {\\r\\n        $feeds =
+  @(\\r\\n        \\\"https://dotnetcli.blob.core.windows.net/dotnet\\\",\\r\\n        \
+  \\\"https://dotnetbuilds.blob.core.windows.net/public\\\"\\r\\n        )\\r\\n\
+  \\r\\n        if (-not [string]::IsNullOrEmpty($UncachedFeed))
+  {\\r\\n            $feeds =
+  @($UncachedFeed)\\r\\n        }\\r\\n    }\\r\\n\\r\\n    return
+  $feeds\\r\\n}\\r\\n\\r\\nfunction Resolve-AssetName-And-RelativePath([string]
+  $Runtime) {\\r\\n    \\r\\n    if ($Runtime -eq \\\"dotnet\\\")
+  {\\r\\n        $assetName = \\\".NET Core
+  Runtime\\\"\\r\\n        $dotnetPackageRelativePath =
+  \\\"shared\\\\Microsoft.NETCore.App\\\"\\r\\n    }\\r\\n    elseif ($Runtime
+  -eq \\\"aspnetcore\\\") {\\r\\n        $assetName = \\\"ASP.NET Core
+  Runtime\\\"\\r\\n        $dotnetPackageRelativePath =
+  \\\"shared\\\\Microsoft.AspNetCore.App\\\"\\r\\n    }\\r\\n    elseif
+  ($Runtime -eq \\\"windowsdesktop\\\") {\\r\\n        $assetName = \\\".NET
+  Core Windows Desktop Runtime\\\"\\r\\n        $dotnetPackageRelativePath =
+  \\\"shared\\\\Microsoft.WindowsDesktop.App\\\"\\r\\n    }\\r\\n    elseif
+  (-not $Runtime) {\\r\\n        $assetName = \\\".NET Core
+  SDK\\\"\\r\\n        $dotnetPackageRelativePath =
+  \\\"sdk\\\"\\r\\n    }\\r\\n    else {\\r\\n        throw \\\"Invalid value
+  for `$Runtime\\\"\\r\\n    }\\r\\n\\r\\n    return ($assetName,
+  $dotnetPackageRelativePath)\\r\\n}\\r\\n\\r\\nfunction
+  Prepare-Install-Directory {\\r\\n    $diskSpaceWarning = \\\"Failed to check
+  the disk space. Installation will continue, but it may fail if you do not have
+  enough disk space.\\\";\\r\\n\\r\\n    if ($PSVersionTable.PSVersion.Major -lt
+  7) {\\r\\n        Say-Verbose
+  $diskSpaceWarning\\r\\n        return\\r\\n    }\\r\\n\\r\\n    New-Item
+  -ItemType Directory -Force -Path $InstallRoot |
+  Out-Null\\r\\n\\r\\n    $installDrive = $((Get-Item $InstallRoot
+  -Force).PSDrive.Name);\\r\\n    $diskInfo = $null\\r\\n    try
+  {\\r\\n        $diskInfo = Get-PSDrive -Name
+  $installDrive\\r\\n    }\\r\\n    catch {\\r\\n        Say-Warning
+  $diskSpaceWarning\\r\\n    }\\r\\n\\r\\n    # The check is relevant for PS
+  version >= 7, the result can be irrelevant for older versions. See
+  https://github.com/PowerShell/PowerShell/issues/12442.\\r\\n    if ( ($null
+  -ne $diskInfo) -and ($diskInfo.Free / 1MB -le 100)) {\\r\\n        throw
+  \\\"There is not enough disk space on drive
+  ${installDrive}:\\\"\\r\\n    }\\r\\n}\\r\\n\\r\\nSay-Verbose \\\"Note that
+  the intended use of this script is for Continuous Integration (CI) scenarios,
+  where:\\\"\\r\\nSay-Verbose \\\"- The SDK needs to be installed without user
+  interaction and without admin rights.\\\"\\r\\nSay-Verbose \\\"- The SDK
+  installation doesn't need to persist across multiple CI
+  runs.\\\"\\r\\nSay-Verbose \\\"To set up a development environment or to run
+  apps, use installers rather than this script. Visit
+  https://dotnet.microsoft.com/download to get the
+  installer.`r`n\\\"\\r\\n\\r\\nif ($SharedRuntime -and (-not $Runtime))
+  {\\r\\n    $Runtime =
+  \\\"dotnet\\\"\\r\\n}\\r\\n\\r\\n$OverrideNonVersionedFiles =
+  !$SkipNonVersionedFiles\\r\\n\\r\\nMeasure-Action \\\"Product discovery\\\"
+  {\\r\\n    $script:CLIArchitecture = Get-CLIArchitecture-From-Architecture
+  $Architecture\\r\\n    $script:NormalizedQuality = Get-NormalizedQuality
+  $Quality\\r\\n    Say-Verbose \\\"Normalized quality:
+  '$NormalizedQuality'\\\"\\r\\n    $script:NormalizedChannel =
+  Get-NormalizedChannel $Channel\\r\\n    Say-Verbose \\\"Normalized channel:
+  '$NormalizedChannel'\\\"\\r\\n    $script:NormalizedProduct =
+  Get-NormalizedProduct $Runtime\\r\\n    Say-Verbose \\\"Normalized product:
+  '$NormalizedProduct'\\\"\\r\\n    $script:FeedCredential =
+  ValidateFeedCredential $FeedCredential\\r\\n}\\r\\n\\r\\n$InstallRoot =
+  Resolve-Installation-Path $InstallDir\\r\\nSay-Verbose \\\"InstallRoot:
+  $InstallRoot\\\"\\r\\n$ScriptName =
+  $MyInvocation.MyCommand.Name\\r\\n($assetName, $dotnetPackageRelativePath) =
+  Resolve-AssetName-And-RelativePath -Runtime $Runtime\\r\\n\\r\\n$feeds =
+  Get-Feeds-To-Use\\r\\n$DownloadLinks = @()\\r\\n\\r\\nif
+  ($Version.ToLowerInvariant() -ne \\\"latest\\\" -and -not
+  [string]::IsNullOrEmpty($Quality)) {\\r\\n    throw \\\"Quality and Version
+  options are not allowed to be specified simultaneously. See https://
+  learn.microsoft.com/dotnet/core/tools/dotnet-install-script#options for
+  details.\\\"\\r\\n}\\r\\n\\r\\n# aka.ms links can only be used if the user did
+  not request a specific version via the command line or a global.json
+  file.\\r\\nif ([string]::IsNullOrEmpty($JSonFile) -and ($Version -eq
+  \\\"latest\\\")) {\\r\\n    ($DownloadLink, $SpecificVersion,
+  $EffectiveVersion) = Get-AkaMsLink-And-Version $NormalizedChannel
+  $NormalizedQuality $Internal $NormalizedProduct
+  $CLIArchitecture\\r\\n    \\r\\n    if ($null -ne $DownloadLink)
+  {\\r\\n        $DownloadLinks += New-Object PSObject -Property
+  @{downloadLink=\\\"$DownloadLink\\\";specificVersion=\\\"$SpecificVersion\\\"\
+  ;effectiveVersion=\\\"$EffectiveVersion\\\";type='aka.ms'}\\r\\n        Say-V\
+  erbose \\\"Generated aka.ms link $DownloadLink with version
+  $EffectiveVersion\\\"\\r\\n        \\r\\n        if (-Not $DryRun)
+  {\\r\\n            Say-Verbose \\\"Checking if the version $EffectiveVersion
+  is already installed\\\"\\r\\n            if (Is-Dotnet-Package-Installed
+  -InstallRoot $InstallRoot -RelativePathToPackage $dotnetPackageRelativePath
+  -SpecificVersion
+  $EffectiveVersion)\\r\\n            {\\r\\n                Say \\\"$assetName
+  with version '$EffectiveVersion' is already
+  installed.\\\"\\r\\n                Prepend-Sdk-InstallRoot-To-Path
+  -InstallRoot
+  $InstallRoot\\r\\n                return\\r\\n            }\\r\\n        }\\r\
+  \\n    }\\r\\n}\\r\\n\\r\\n# Primary and legacy links cannot be used if a
+  quality was specified.\\r\\n# If we already have an aka.ms link, no need to
+  search the blob feeds.\\r\\nif ([string]::IsNullOrEmpty($NormalizedQuality)
+  -and 0 -eq $DownloadLinks.count)\\r\\n{\\r\\n    foreach ($feed in $feeds)
+  {\\r\\n        try {\\r\\n            $SpecificVersion =
+  Get-Specific-Version-From-Version -AzureFeed $feed -Channel $Channel -Version
+  $Version -JSonFile $JSonFile\\r\\n            $DownloadLink, $EffectiveVersion
+  = Get-Download-Link -AzureFeed $feed -SpecificVersion $SpecificVersion
+  -CLIArchitecture $CLIArchitecture\\r\\n            $LegacyDownloadLink =
+  Get-LegacyDownload-Link -AzureFeed $feed -SpecificVersion $SpecificVersion
+  -CLIArchitecture
+  $CLIArchitecture\\r\\n            \\r\\n            $DownloadLinks +=
+  New-Object PSObject -Property
+  @{downloadLink=\\\"$DownloadLink\\\";specificVersion=\\\"$SpecificVersion\\\"\
+  ;effectiveVersion=\\\"$EffectiveVersion\\\";type='primary'}\\r\\n            \
+  Say-Verbose \\\"Generated primary link $DownloadLink with version
+  $EffectiveVersion\\\"\\r\\n    \\r\\n            if (-not
+  [string]::IsNullOrEmpty($LegacyDownloadLink))
+  {\\r\\n                $DownloadLinks += New-Object PSObject -Property
+  @{downloadLink=\\\"$LegacyDownloadLink\\\";specificVersion=\\\"$SpecificVersi\
+  on\\\";effectiveVersion=\\\"$EffectiveVersion\\\";type='legacy'}\\r\\n                \
+  Say-Verbose \\\"Generated legacy link $LegacyDownloadLink with version
+  $EffectiveVersion\\\"\\r\\n            }\\r\\n    \\r\\n            if (-Not
+  $DryRun) {\\r\\n                Say-Verbose \\\"Checking if the version
+  $EffectiveVersion is already installed\\\"\\r\\n                if
+  (Is-Dotnet-Package-Installed -InstallRoot $InstallRoot -RelativePathToPackage
+  $dotnetPackageRelativePath -SpecificVersion
+  $EffectiveVersion)\\r\\n                {\\r\\n                    Say
+  \\\"$assetName with version '$EffectiveVersion' is already
+  installed.\\\"\\r\\n                    Prepend-Sdk-InstallRoot-To-Path
+  -InstallRoot
+  $InstallRoot\\r\\n                    return\\r\\n                }\\r\\n            \
+  }\\r\\n        }\\r\\n        catch\\r\\n        {\\r\\n            Say-Verbo\
+  se \\\"Failed to acquire download links from feed $feed. Exception:
+  $_\\\"\\r\\n        }\\r\\n    }\\r\\n}\\r\\n\\r\\nif ($DownloadLinks.count
+  -eq 0) {\\r\\n    throw \\\"Failed to resolve the exact version
+  number.\\\"\\r\\n}\\r\\n\\r\\nif ($DryRun) {\\r\\n    PrintDryRunOutput
+  $MyInvocation $DownloadLinks\\r\\n    return\\r\\n}\\r\\n\\r\\nMeasure-Action
+  \\\"Installation directory preparation\\\" { Prepare-Install-Directory
+  }\\r\\n\\r\\nSay-Verbose \\\"Zip path:
+  $ZipPath\\\"\\r\\n\\r\\n$DownloadSucceeded = $false\\r\\n$DownloadedLink =
+  $null\\r\\n$ErrorMessages = @()\\r\\n\\r\\nforeach ($link in
+  $DownloadLinks)\\r\\n{\\r\\n    Say-Verbose \\\"Downloading
+  `\\\"$($link.type)`\\\" link $($link.downloadLink)\\\"\\r\\n\\r\\n    try
+  {\\r\\n        Measure-Action \\\"Package download\\\" { DownloadFile -Source
+  $link.downloadLink -OutPath $ZipPath }\\r\\n        Say-Verbose \\\"Download
+  succeeded.\\\"\\r\\n        $DownloadSucceeded =
+  $true\\r\\n        $DownloadedLink =
+  $link\\r\\n        break\\r\\n    }\\r\\n    catch {\\r\\n        $StatusCode
+  = $null\\r\\n        $ErrorMessage = $null\\r\\n\\r\\n        if
+  ($PSItem.Exception.Data.Contains(\\\"StatusCode\\\"))
+  {\\r\\n            $StatusCode =
+  $PSItem.Exception.Data[\\\"StatusCode\\\"]\\r\\n        }\\r\\n    \\r\\n        \
+  if ($PSItem.Exception.Data.Contains(\\\"ErrorMessage\\\"))
+  {\\r\\n            $ErrorMessage =
+  $PSItem.Exception.Data[\\\"ErrorMessage\\\"]\\r\\n        } else
+  {\\r\\n            $ErrorMessage =
+  $PSItem.Exception.Message\\r\\n        }\\r\\n\\r\\n        Say-Verbose
+  \\\"Download failed with status code $StatusCode. Error message:
+  $ErrorMessage\\\"\\r\\n        $ErrorMessages += \\\"Downloading from
+  `\\\"$($link.type)`\\\" link has failed with error:`nUri:
+  $($link.downloadLink)`nStatusCode: $StatusCode`nError:
+  $ErrorMessage\\\"\\r\\n    }\\r\\n\\r\\n    # This link failed. Clean up
+  before trying the next one.\\r\\n    SafeRemoveFile -Path
+  $ZipPath\\r\\n}\\r\\n\\r\\nif (-not $DownloadSucceeded) {\\r\\n    foreach
+  ($ErrorMessage in $ErrorMessages) {\\r\\n        Say-Error
+  $ErrorMessages\\r\\n    }\\r\\n\\r\\n    throw \\\"Could not find
+  `\\\"$assetName`\\\" with version =
+  $($DownloadLinks[0].effectiveVersion)`nRefer to:
+  https://aka.ms/dotnet-os-lifecycle for information on .NET
+  support\\\"\\r\\n}\\r\\n\\r\\nSay \\\"Extracting the
+  archive.\\\"\\r\\nMeasure-Action \\\"Package extraction\\\" {
+  Extract-Dotnet-Package -ZipPath $ZipPath -OutPath $InstallRoot
+  }\\r\\n\\r\\n#  Check if the SDK version is installed; if not, fail the
+  installation.\\r\\n$isAssetInstalled = $false\\r\\n\\r\\n# if the version
+  contains \\\"RTM\\\" or \\\"servicing\\\"; check if a 'release-type' SDK
+  version is installed.\\r\\nif ($DownloadedLink.effectiveVersion -Match
+  \\\"rtm\\\" -or $DownloadedLink.effectiveVersion -Match \\\"servicing\\\")
+  {\\r\\n    $ReleaseVersion =
+  $DownloadedLink.effectiveVersion.Split(\\\"-\\\")[0]\\r\\n    Say-Verbose
+  \\\"Checking installation: version =
+  $ReleaseVersion\\\"\\r\\n    $isAssetInstalled = Is-Dotnet-Package-Installed
+  -InstallRoot $InstallRoot -RelativePathToPackage $dotnetPackageRelativePath
+  -SpecificVersion $ReleaseVersion\\r\\n}\\r\\n\\r\\n#  Check if the SDK version
+  is installed.\\r\\nif (!$isAssetInstalled) {\\r\\n    Say-Verbose \\\"Checking
+  installation: version =
+  $($DownloadedLink.effectiveVersion)\\\"\\r\\n    $isAssetInstalled =
+  Is-Dotnet-Package-Installed -InstallRoot $InstallRoot -RelativePathToPackage
+  $dotnetPackageRelativePath -SpecificVersion
+  $DownloadedLink.effectiveVersion\\r\\n}\\r\\n\\r\\n# Version verification
+  failed. More likely something is wrong either with the downloaded content or
+  with the verification algorithm.\\r\\nif (!$isAssetInstalled)
+  {\\r\\n    Say-Error \\\"Failed to verify the version of installed
+  `\\\"$assetName`\\\".`nInstallation source:
+  $($DownloadedLink.downloadLink).`nInstallation location: $InstallRoot.`nReport
+  the bug at
+  https://github.com/dotnet/install-scripts/issues.\\\"\\r\\n    throw
+  \\\"`\\\"$assetName`\\\" with version = $($DownloadedLink.effectiveVersion)
+  failed to install with an unknown error.\\\"\\r\\n}\\r\\n\\r\\nif (-not
+  $KeepZip) {\\r\\n    SafeRemoveFile -Path
+  $ZipPath\\r\\n}\\r\\n\\r\\nMeasure-Action \\\"Setting up shell environment\\\"
+  { Prepend-Sdk-InstallRoot-To-Path -InstallRoot $InstallRoot }\\r\\n\\r\\nSay
+  \\\"Note that the script does not resolve dependencies during
+  installation.\\\"\\r\\nSay \\\"To check the list of dependencies, go to
+  https://learn.microsoft.com/dotnet/core/install/windows#dependencies\\\"\\r\\\
+  nSay \\\"Installed version is $($DownloadedLink.effectiveVersion)\\\"\\r\\nSay
+  \\\"Installation finished\\\"\\r\\n# SIG # Begin signature block\\r\\n#
+  MIInvwYJKoZIhvcNAQcCoIInsDCCJ6wCAQExDzANBglghkgBZQMEAgEFADB5Bgor\\r\\n#
+  BgEEAYI3AgEEoGswaTA0BgorBgEEAYI3AgEeMCYCAwEAAAQQH8w7YFlLCE63JNLG\\r\\n#
+  KX7zUQIBAAIBAAIBAAIBAAIBADAxMA0GCWCGSAFlAwQCAQUABCACRu+yvG+6rftW\\r\\n#
+  7639o2K9YFU32HKgY4Dqe9C3db/p7qCCDXYwggX0MIID3KADAgECAhMzAAADTrU8\\r\\n#
+  esGEb+srAAAAAANOMA0GCSqGSIb3DQEBCwUAMH4xCzAJBgNVBAYTAlVTMRMwEQYD\\r\\n#
+  VQQIEwpXYXNoaW5ndG9uMRAwDgYDVQQHEwdSZWRtb25kMR4wHAYDVQQKExVNaWNy\\r\\n#
+  b3NvZnQgQ29ycG9yYXRpb24xKDAmBgNVBAMTH01pY3Jvc29mdCBDb2RlIFNpZ25p\\r\\n#
+  bmcgUENBIDIwMTEwHhcNMjMwMzE2MTg0MzI5WhcNMjQwMzE0MTg0MzI5WjB0MQsw\\r\\n#
+  CQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMHUmVkbW9u\\r\\n#
+  ZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMR4wHAYDVQQDExVNaWNy\\r\\n#
+  b3NvZnQgQ29ycG9yYXRpb24wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB\\r\\n#
+  AQDdCKiNI6IBFWuvJUmf6WdOJqZmIwYs5G7AJD5UbcL6tsC+EBPDbr36pFGo1bsU\\r\\n#
+  p53nRyFYnncoMg8FK0d8jLlw0lgexDDr7gicf2zOBFWqfv/nSLwzJFNP5W03DF/1\\r\\n#
+  1oZ12rSFqGlm+O46cRjTDFBpMRCZZGddZlRBjivby0eI1VgTD1TvAdfBYQe82fhm\\r\\n#
+  WQkYR/lWmAK+vW/1+bO7jHaxXTNCxLIBW07F8PBjUcwFxxyfbe2mHB4h1L4U0Ofa\\r\\n#
+  +HX/aREQ7SqYZz59sXM2ySOfvYyIjnqSO80NGBaz5DvzIG88J0+BNhOu2jl6Dfcq\\r\\n#
+  jYQs1H/PMSQIK6E7lXDXSpXzAgMBAAGjggFzMIIBbzAfBgNVHSUEGDAWBgorBgEE\\r\\n#
+  AYI3TAgBBggrBgEFBQcDAzAdBgNVHQ4EFgQUnMc7Zn/ukKBsBiWkwdNfsN5pdwAw\\r\\n#
+  RQYDVR0RBD4wPKQ6MDgxHjAcBgNVBAsTFU1pY3Jvc29mdCBDb3Jwb3JhdGlvbjEW\\r\\n#
+  MBQGA1UEBRMNMjMwMDEyKzUwMDUxNjAfBgNVHSMEGDAWgBRIbmTlUAXTgqoXNzci\\r\\n#
+  tW2oynUClTBUBgNVHR8ETTBLMEmgR6BFhkNodHRwOi8vd3d3Lm1pY3Jvc29mdC5j\\r\\n#
+  b20vcGtpb3BzL2NybC9NaWNDb2RTaWdQQ0EyMDExXzIwMTEtMDctMDguY3JsMGEG\\r\\n#
+  CCsGAQUFBwEBBFUwUzBRBggrBgEFBQcwAoZFaHR0cDovL3d3dy5taWNyb3NvZnQu\\r\\n#
+  Y29tL3BraW9wcy9jZXJ0cy9NaWNDb2RTaWdQQ0EyMDExXzIwMTEtMDctMDguY3J0\\r\\n#
+  MAwGA1UdEwEB/wQCMAAwDQYJKoZIhvcNAQELBQADggIBAD21v9pHoLdBSNlFAjmk\\r\\n#
+  mx4XxOZAPsVxxXbDyQv1+kGDe9XpgBnT1lXnx7JDpFMKBwAyIwdInmvhK9pGBa31\\r\\n#
+  TyeL3p7R2s0L8SABPPRJHAEk4NHpBXxHjm4TKjezAbSqqbgsy10Y7KApy+9UrKa2\\r\\n#
+  kGmsuASsk95PVm5vem7OmTs42vm0BJUU+JPQLg8Y/sdj3TtSfLYYZAaJwTAIgi7d\\r\\n#
+  hzn5hatLo7Dhz+4T+MrFd+6LUa2U3zr97QwzDthx+RP9/RZnur4inzSQsG5DCVIM\\r\\n#
+  pA1l2NWEA3KAca0tI2l6hQNYsaKL1kefdfHCrPxEry8onJjyGGv9YKoLv6AOO7Oh\\r\\n#
+  JEmbQlz/xksYG2N/JSOJ+QqYpGTEuYFYVWain7He6jgb41JbpOGKDdE/b+V2q/gX\\r\\n#
+  UgFe2gdwTpCDsvh8SMRoq1/BNXcr7iTAU38Vgr83iVtPYmFhZOVM0ULp/kKTVoir\\r\\n#
+  IpP2KCxT4OekOctt8grYnhJ16QMjmMv5o53hjNFXOxigkQWYzUO+6w50g0FAeFa8\\r\\n#
+  5ugCCB6lXEk21FFB1FdIHpjSQf+LP/W2OV/HfhC3uTPgKbRtXo83TZYEudooyZ/A\\r\\n#
+  Vu08sibZ3MkGOJORLERNwKm2G7oqdOv4Qj8Z0JrGgMzj46NFKAxkLSpE5oHQYP1H\\r\\n#
+  tPx1lPfD7iNSbJsP6LiUHXH1MIIHejCCBWKgAwIBAgIKYQ6Q0gAAAAAAAzANBgkq\\r\\n#
+  hkiG9w0BAQsFADCBiDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCldhc2hpbmd0b24x\\r\\n#
+  EDAOBgNVBAcTB1JlZG1vbmQxHjAcBgNVBAoTFU1pY3Jvc29mdCBDb3Jwb3JhdGlv\\r\\n#
+  bjEyMDAGA1UEAxMpTWljcm9zb2Z0IFJvb3QgQ2VydGlmaWNhdGUgQXV0aG9yaXR5\\r\\n#
+  IDIwMTEwHhcNMTEwNzA4MjA1OTA5WhcNMjYwNzA4MjEwOTA5WjB+MQswCQYDVQQG\\r\\n#
+  EwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMHUmVkbW9uZDEeMBwG\\r\\n#
+  A1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMSgwJgYDVQQDEx9NaWNyb3NvZnQg\\r\\n#
+  Q29kZSBTaWduaW5nIFBDQSAyMDExMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIIC\\r\\n#
+  CgKCAgEAq/D6chAcLq3YbqqCEE00uvK2WCGfQhsqa+laUKq4BjgaBEm6f8MMHt03\\r\\n#
+  a8YS2AvwOMKZBrDIOdUBFDFC04kNeWSHfpRgJGyvnkmc6Whe0t+bU7IKLMOv2akr\\r\\n#
+  rnoJr9eWWcpgGgXpZnboMlImEi/nqwhQz7NEt13YxC4Ddato88tt8zpcoRb0Rrrg\\r\\n#
+  OGSsbmQ1eKagYw8t00CT+OPeBw3VXHmlSSnnDb6gE3e+lD3v++MrWhAfTVYoonpy\\r\\n#
+  4BI6t0le2O3tQ5GD2Xuye4Yb2T6xjF3oiU+EGvKhL1nkkDstrjNYxbc+/jLTswM9\\r\\n#
+  sbKvkjh+0p2ALPVOVpEhNSXDOW5kf1O6nA+tGSOEy/S6A4aN91/w0FK/jJSHvMAh\\r\\n#
+  dCVfGCi2zCcoOCWYOUo2z3yxkq4cI6epZuxhH2rhKEmdX4jiJV3TIUs+UsS1Vz8k\\r\\n#
+  A/DRelsv1SPjcF0PUUZ3s/gA4bysAoJf28AVs70b1FVL5zmhD+kjSbwYuER8ReTB\\r\\n#
+  w3J64HLnJN+/RpnF78IcV9uDjexNSTCnq47f7Fufr/zdsGbiwZeBe+3W7UvnSSmn\\r\\n#
+  Eyimp31ngOaKYnhfsi+E11ecXL93KCjx7W3DKI8sj0A3T8HhhUSJxAlMxdSlQy90\\r\\n#
+  lfdu+HggWCwTXWCVmj5PM4TasIgX3p5O9JawvEagbJjS4NaIjAsCAwEAAaOCAe0w\\r\\n#
+  ggHpMBAGCSsGAQQBgjcVAQQDAgEAMB0GA1UdDgQWBBRIbmTlUAXTgqoXNzcitW2o\\r\\n#
+  ynUClTAZBgkrBgEEAYI3FAIEDB4KAFMAdQBiAEMAQTALBgNVHQ8EBAMCAYYwDwYD\\r\\n#
+  VR0TAQH/BAUwAwEB/zAfBgNVHSMEGDAWgBRyLToCMZBDuRQFTuHqp8cx0SOJNDBa\\r\\n#
+  BgNVHR8EUzBRME+gTaBLhklodHRwOi8vY3JsLm1pY3Jvc29mdC5jb20vcGtpL2Ny\\r\\n#
+  bC9wcm9kdWN0cy9NaWNSb29DZXJBdXQyMDExXzIwMTFfMDNfMjIuY3JsMF4GCCsG\\r\\n#
+  AQUFBwEBBFIwUDBOBggrBgEFBQcwAoZCaHR0cDovL3d3dy5taWNyb3NvZnQuY29t\\r\\n#
+  L3BraS9jZXJ0cy9NaWNSb29DZXJBdXQyMDExXzIwMTFfMDNfMjIuY3J0MIGfBgNV\\r\\n#
+  HSAEgZcwgZQwgZEGCSsGAQQBgjcuAzCBgzA/BggrBgEFBQcCARYzaHR0cDovL3d3\\r\\n#
+  dy5taWNyb3NvZnQuY29tL3BraW9wcy9kb2NzL3ByaW1hcnljcHMuaHRtMEAGCCsG\\r\\n#
+  AQUFBwICMDQeMiAdAEwAZQBnAGEAbABfAHAAbwBsAGkAYwB5AF8AcwB0AGEAdABl\\r\\n#
+  AG0AZQBuAHQALiAdMA0GCSqGSIb3DQEBCwUAA4ICAQBn8oalmOBUeRou09h0ZyKb\\r\\n#
+  C5YR4WOSmUKWfdJ5DJDBZV8uLD74w3LRbYP+vj/oCso7v0epo/Np22O/IjWll11l\\r\\n#
+  hJB9i0ZQVdgMknzSGksc8zxCi1LQsP1r4z4HLimb5j0bpdS1HXeUOeLpZMlEPXh6\\r\\n#
+  I/MTfaaQdION9MsmAkYqwooQu6SpBQyb7Wj6aC6VoCo/KmtYSWMfCWluWpiW5IP0\\r\\n#
+  wI/zRive/DvQvTXvbiWu5a8n7dDd8w6vmSiXmE0OPQvyCInWH8MyGOLwxS3OW560\\r\\n#
+  STkKxgrCxq2u5bLZ2xWIUUVYODJxJxp/sfQn+N4sOiBpmLJZiWhub6e3dMNABQam\\r\\n#
+  ASooPoI/E01mC8CzTfXhj38cbxV9Rad25UAqZaPDXVJihsMdYzaXht/a8/jyFqGa\\r\\n#
+  J+HNpZfQ7l1jQeNbB5yHPgZ3BtEGsXUfFL5hYbXw3MYbBL7fQccOKO7eZS/sl/ah\\r\\n#
+  XJbYANahRr1Z85elCUtIEJmAH9AAKcWxm6U/RXceNcbSoqKfenoi+kiVH6v7RyOA\\r\\n#
+  9Z74v2u3S5fi63V4GuzqN5l5GEv/1rMjaHXmr/r8i+sLgOppO6/8MO0ETI7f33Vt\\r\\n#
+  Y5E90Z1WTk+/gFcioXgRMiF670EKsT/7qMykXcGhiJtXcVZOSEXAQsmbdlsKgEhr\\r\\n#
+  /Xmfwb1tbWrJUnMTDXpQzTGCGZ8wghmbAgEBMIGVMH4xCzAJBgNVBAYTAlVTMRMw\\r\\n#
+  EQYDVQQIEwpXYXNoaW5ndG9uMRAwDgYDVQQHEwdSZWRtb25kMR4wHAYDVQQKExVN\\r\\n#
+  aWNyb3NvZnQgQ29ycG9yYXRpb24xKDAmBgNVBAMTH01pY3Jvc29mdCBDb2RlIFNp\\r\\n#
+  Z25pbmcgUENBIDIwMTECEzMAAANOtTx6wYRv6ysAAAAAA04wDQYJYIZIAWUDBAIB\\r\\n#
+  BQCgga4wGQYJKoZIhvcNAQkDMQwGCisGAQQBgjcCAQQwHAYKKwYBBAGCNwIBCzEO\\r\\n#
+  MAwGCisGAQQBgjcCARUwLwYJKoZIhvcNAQkEMSIEIPHo6D4ixtuX2mtmXYtzP7Xh\\r\\n#
+  5SbbHtBt9hwIKfR9nNCHMEIGCisGAQQBgjcCAQwxNDAyoBSAEgBNAGkAYwByAG8A\\r\\n#
+  cwBvAGYAdKEagBhodHRwOi8vd3d3Lm1pY3Jvc29mdC5jb20wDQYJKoZIhvcNAQEB\\r\\n#
+  BQAEggEAKaYy0/f2nIWjmd2w2g7hU/pz6ahK3cIahIejHpTW8JXUR3neUB9oFm8x\\r\\n#
+  GiAtgKY6zzxKsMGRJfULOEB+jV8y1TK5aAUtNWog8o7i9hl/W3JLsRtcduGhqvR8\\r\\n#
+  oYFq4xkYPDwAjklDN96cWNqWmqsUULs/jxx4Ef0o9/2Cy9FWYwvyDK/o0bdfotsl\\r\\n#
+  +cr3Aj1fIOSkrMKjEoScITOvfGCDgNqVsu+62itzX0QvIq7yW8aqJ5xd2r94IOry\\r\\n#
+  u6iMdQFYSxR7xpIaDjKLHCH8tTmKAlrFFekhaxe1WuTvNBt154Zl1U7ukSO12s1N\\r\\n#
+  ezHYEW4AoLd4MO9zmXwDZmo3RLzFHKGCFykwghclBgorBgEEAYI3AwMBMYIXFTCC\\r\\n#
+  FxEGCSqGSIb3DQEHAqCCFwIwghb+AgEDMQ8wDQYJYIZIAWUDBAIBBQAwggFZBgsq\\r\\n#
+  hkiG9w0BCRABBKCCAUgEggFEMIIBQAIBAQYKKwYBBAGEWQoDATAxMA0GCWCGSAFl\\r\\n#
+  AwQCAQUABCCiX6fcUDSacytCBP6o92QnwRIQCE6w6Se15jgm1UebNAIGZN/N9Z2v\\r\\n#
+  GBMyMDIzMDkxODEwMDUxOS4zMjJaMASAAgH0oIHYpIHVMIHSMQswCQYDVQQGEwJV\\r\\n#
+  UzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMHUmVkbW9uZDEeMBwGA1UE\\r\\n#
+  ChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMS0wKwYDVQQLEyRNaWNyb3NvZnQgSXJl\\r\\n#
+  bGFuZCBPcGVyYXRpb25zIExpbWl0ZWQxJjAkBgNVBAsTHVRoYWxlcyBUU1MgRVNO\\r\\n#
+  OkQwODItNEJGRC1FRUJBMSUwIwYDVQQDExxNaWNyb3NvZnQgVGltZS1TdGFtcCBT\\r\\n#
+  ZXJ2aWNloIIReDCCBycwggUPoAMCAQICEzMAAAG6Hz8Z98F1vXwAAQAAAbowDQYJ\\r\\n#
+  KoZIhvcNAQELBQAwfDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCldhc2hpbmd0b24x\\r\\n#
+  EDAOBgNVBAcTB1JlZG1vbmQxHjAcBgNVBAoTFU1pY3Jvc29mdCBDb3Jwb3JhdGlv\\r\\n#
+  bjEmMCQGA1UEAxMdTWljcm9zb2Z0IFRpbWUtU3RhbXAgUENBIDIwMTAwHhcNMjIw\\r\\n#
+  OTIwMjAyMjE5WhcNMjMxMjE0MjAyMjE5WjCB0jELMAkGA1UEBhMCVVMxEzARBgNV\\r\\n#
+  BAgTCldhc2hpbmd0b24xEDAOBgNVBAcTB1JlZG1vbmQxHjAcBgNVBAoTFU1pY3Jv\\r\\n#
+  c29mdCBDb3Jwb3JhdGlvbjEtMCsGA1UECxMkTWljcm9zb2Z0IElyZWxhbmQgT3Bl\\r\\n#
+  cmF0aW9ucyBMaW1pdGVkMSYwJAYDVQQLEx1UaGFsZXMgVFNTIEVTTjpEMDgyLTRC\\r\\n#
+  RkQtRUVCQTElMCMGA1UEAxMcTWljcm9zb2Z0IFRpbWUtU3RhbXAgU2VydmljZTCC\\r\\n#
+  AiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAIhOFYMzkjWAE9UVnXF9hRGv\\r\\n#
+  0xBRxc+I5Hu3hxVFXyK3u38xusEb0pLkwjgGtDsaLLbrlMxqX3tFb/3BgEPEC3L0\\r\\n#
+  wX76gD8zHt+wiBV5mq5BWop29qRrgMJKKCPcpQnSjs9B/4XMFFvrpdPicZDv43FL\\r\\n#
+  gz9fHqMq0LJDw5JAHGDS30TCY9OF43P4d44Z9lE7CaVS2pJMF3L453MXB5yYK/KD\\r\\n#
+  bilhERP1jxn2yl+tGCRguIAsMG0oeOhXaw8uSGOhS6ACSHb+ebi0038MFHyoTNhK\\r\\n#
+  f+SYo4OpSY3xP4+swBBTKDoYP1wH+CfxG6h9fymBJQPQZaqfl0riiDLjmDunQtH1\\r\\n#
+  GD64Air5k9Jdwhq5wLmSWXjyFVL+IDfOpdixJ6f5o+MhE6H4t31w+prygHmd2UHQ\\r\\n#
+  657UGx6FNuzwC+SpAHmV76MZYac4uAhTgaP47P2eeS1ockvyhl9ya+9JzPfMkug3\\r\\n#
+  xevzFADWiLRMr066EMV7q3JSRAsnCS9GQ08C4FKPbSh8OPM33Lng0ffxANnHAAX/\\r\\n#
+  DE7cHcx7l9jaV3Acmkj7oqir4Eh2u5YxwiaTE37XaMumX2ES3PJ5NBaXq7YdLJwy\\r\\n#
+  SD+U9pk/tl4dQ1t/Eeo7uDTliOyQkD8I74xpVB0T31/67KHfkBkFVvy6wye21V+9\\r\\n#
+  IC8uSD++RgD3RwtN2kE/AgMBAAGjggFJMIIBRTAdBgNVHQ4EFgQUimLm8QMeJa25\\r\\n#
+  j9MWeabI2HSvZOUwHwYDVR0jBBgwFoAUn6cVXQBeYl2D9OXSZacbUzUZ6XIwXwYD\\r\\n#
+  VR0fBFgwVjBUoFKgUIZOaHR0cDovL3d3dy5taWNyb3NvZnQuY29tL3BraW9wcy9j\\r\\n#
+  cmwvTWljcm9zb2Z0JTIwVGltZS1TdGFtcCUyMFBDQSUyMDIwMTAoMSkuY3JsMGwG\\r\\n#
+  CCsGAQUFBwEBBGAwXjBcBggrBgEFBQcwAoZQaHR0cDovL3d3dy5taWNyb3NvZnQu\\r\\n#
+  Y29tL3BraW9wcy9jZXJ0cy9NaWNyb3NvZnQlMjBUaW1lLVN0YW1wJTIwUENBJTIw\\r\\n#
+  MjAxMCgxKS5jcnQwDAYDVR0TAQH/BAIwADAWBgNVHSUBAf8EDDAKBggrBgEFBQcD\\r\\n#
+  CDAOBgNVHQ8BAf8EBAMCB4AwDQYJKoZIhvcNAQELBQADggIBAF/I8U6hbZhvDcn9\\r\\n#
+  6nZ6tkbSEjXPvKZ6wroaXcgstEhpgaeEwleLuPXHLzEWtuJuYz4eshmhXqFr49lb\\r\\n#
+  AcX5SN5/cEsP0xdFayb7U5P94JZd3HjFvpWRNoNBhF3SDM0A38sI2H+hjhB/VfX1\\r\\n#
+  XcZiei1ROPAyCHcBgHLyQrEu6mnb3HhbIdr8h0Ta7WFylGhLSFW6wmzKusP6aOlm\\r\\n#
+  nGSac5NMfla6lRvTYHd28rbbCgfSm1RhTgoZj+W8DTKtiEMwubHJ3mIPKmo8xtJI\\r\\n#
+  WXPnXq6XKgldrL5cynLMX/0WX65OuWbHV5GTELdfWvGV3DaZrHPUQ/UP31Keqb2x\\r\\n#
+  jVCb30LVwgbjIvYS77N1dARkN8F/9pJ1gO4IvZWMwyMlKKFGojO1f1wbjSWcA/57\\r\\n#
+  tsc+t2blrMWgSNHgzDr01jbPSupRjy3Ht9ZZs4xN02eiX3eG297NrtC6l4c/gzn2\\r\\n#
+  0eqoqWx/uHWxmTgB0F5osBuTHOe77DyEA0uhArGlgKP91jghgt/OVHoH65g0QqCt\\r\\n#
+  gZ+36mnCEg6IOhFoFrCc0fJFGVmb1+17gEe+HRMM7jBk4O06J+IooFrI3e3PJjPr\\r\\n#
+  Qano/MyE3h+zAuBWGMDRcUlNKCDU7dGnWvH3XWwLrCCIcz+3GwRUMsLsDdPW2OVv\\r\\n#
+  7v1eEJiMSIZ2P+M7L20Q8aznU4OAMIIHcTCCBVmgAwIBAgITMwAAABXF52ueAptJ\\r\\n#
+  mQAAAAAAFTANBgkqhkiG9w0BAQsFADCBiDELMAkGA1UEBhMCVVMxEzARBgNVBAgT\\r\\n#
+  Cldhc2hpbmd0b24xEDAOBgNVBAcTB1JlZG1vbmQxHjAcBgNVBAoTFU1pY3Jvc29m\\r\\n#
+  dCBDb3Jwb3JhdGlvbjEyMDAGA1UEAxMpTWljcm9zb2Z0IFJvb3QgQ2VydGlmaWNh\\r\\n#
+  dGUgQXV0aG9yaXR5IDIwMTAwHhcNMjEwOTMwMTgyMjI1WhcNMzAwOTMwMTgzMjI1\\r\\n#
+  WjB8MQswCQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMH\\r\\n#
+  UmVkbW9uZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMSYwJAYDVQQD\\r\\n#
+  Ex1NaWNyb3NvZnQgVGltZS1TdGFtcCBQQ0EgMjAxMDCCAiIwDQYJKoZIhvcNAQEB\\r\\n#
+  BQADggIPADCCAgoCggIBAOThpkzntHIhC3miy9ckeb0O1YLT/e6cBwfSqWxOdcjK\\r\\n#
+  NVf2AX9sSuDivbk+F2Az/1xPx2b3lVNxWuJ+Slr+uDZnhUYjDLWNE893MsAQGOhg\\r\\n#
+  fWpSg0S3po5GawcU88V29YZQ3MFEyHFcUTE3oAo4bo3t1w/YJlN8OWECesSq/XJp\\r\\n#
+  rx2rrPY2vjUmZNqYO7oaezOtgFt+jBAcnVL+tuhiJdxqD89d9P6OU8/W7IVWTe/d\\r\\n#
+  vI2k45GPsjksUZzpcGkNyjYtcI4xyDUoveO0hyTD4MmPfrVUj9z6BVWYbWg7mka9\\r\\n#
+  7aSueik3rMvrg0XnRm7KMtXAhjBcTyziYrLNueKNiOSWrAFKu75xqRdbZ2De+JKR\\r\\n#
+  Hh09/SDPc31BmkZ1zcRfNN0Sidb9pSB9fvzZnkXftnIv231fgLrbqn427DZM9itu\\r\\n#
+  qBJR6L8FA6PRc6ZNN3SUHDSCD/AQ8rdHGO2n6Jl8P0zbr17C89XYcz1DTsEzOUyO\\r\\n#
+  ArxCaC4Q6oRRRuLRvWoYWmEBc8pnol7XKHYC4jMYctenIPDC+hIK12NvDMk2ZItb\\r\\n#
+  oKaDIV1fMHSRlJTYuVD5C4lh8zYGNRiER9vcG9H9stQcxWv2XFJRXRLbJbqvUAV6\\r\\n#
+  bMURHXLvjflSxIUXk8A8FdsaN8cIFRg/eKtFtvUeh17aj54WcmnGrnu3tz5q4i6t\\r\\n#
+  AgMBAAGjggHdMIIB2TASBgkrBgEEAYI3FQEEBQIDAQABMCMGCSsGAQQBgjcVAgQW\\r\\n#
+  BBQqp1L+ZMSavoKRPEY1Kc8Q/y8E7jAdBgNVHQ4EFgQUn6cVXQBeYl2D9OXSZacb\\r\\n#
+  UzUZ6XIwXAYDVR0gBFUwUzBRBgwrBgEEAYI3TIN9AQEwQTA/BggrBgEFBQcCARYz\\r\\n#
+  aHR0cDovL3d3dy5taWNyb3NvZnQuY29tL3BraW9wcy9Eb2NzL1JlcG9zaXRvcnku\\r\\n#
+  aHRtMBMGA1UdJQQMMAoGCCsGAQUFBwMIMBkGCSsGAQQBgjcUAgQMHgoAUwB1AGIA\\r\\n#
+  QwBBMAsGA1UdDwQEAwIBhjAPBgNVHRMBAf8EBTADAQH/MB8GA1UdIwQYMBaAFNX2\\r\\n#
+  VsuP6KJcYmjRPZSQW9fOmhjEMFYGA1UdHwRPME0wS6BJoEeGRWh0dHA6Ly9jcmwu\\r\\n#
+  bWljcm9zb2Z0LmNvbS9wa2kvY3JsL3Byb2R1Y3RzL01pY1Jvb0NlckF1dF8yMDEw\\r\\n#
+  LTA2LTIzLmNybDBaBggrBgEFBQcBAQROMEwwSgYIKwYBBQUHMAKGPmh0dHA6Ly93\\r\\n#
+  d3cubWljcm9zb2Z0LmNvbS9wa2kvY2VydHMvTWljUm9vQ2VyQXV0XzIwMTAtMDYt\\r\\n#
+  MjMuY3J0MA0GCSqGSIb3DQEBCwUAA4ICAQCdVX38Kq3hLB9nATEkW+Geckv8qW/q\\r\\n#
+  XBS2Pk5HZHixBpOXPTEztTnXwnE2P9pkbHzQdTltuw8x5MKP+2zRoZQYIu7pZmc6\\r\\n#
+  U03dmLq2HnjYNi6cqYJWAAOwBb6J6Gngugnue99qb74py27YP0h1AdkY3m2CDPVt\\r\\n#
+  I1TkeFN1JFe53Z/zjj3G82jfZfakVqr3lbYoVSfQJL1AoL8ZthISEV09J+BAljis\\r\\n#
+  9/kpicO8F7BUhUKz/AyeixmJ5/ALaoHCgRlCGVJ1ijbCHcNhcy4sa3tuPywJeBTp\\r\\n#
+  kbKpW99Jo3QMvOyRgNI95ko+ZjtPu4b6MhrZlvSP9pEB9s7GdP32THJvEKt1MMU0\\r\\n#
+  sHrYUP4KWN1APMdUbZ1jdEgssU5HLcEUBHG/ZPkkvnNtyo4JvbMBV0lUZNlz138e\\r\\n#
+  W0QBjloZkWsNn6Qo3GcZKCS6OEuabvshVGtqRRFHqfG3rsjoiV5PndLQTHa1V1QJ\\r\\n#
+  sWkBRH58oWFsc/4Ku+xBZj1p/cvBQUl+fpO+y/g75LcVv7TOPqUxUYS8vwLBgqJ7\\r\\n#
+  Fx0ViY1w/ue10CgaiQuPNtq6TPmb/wrpNPgkNWcr4A245oyZ1uEi6vAnQj0llOZ0\\r\\n#
+  dFtq0Z4+7X6gMTN9vMvpe784cETRkPHIqzqKOghif9lwY1NNje6CbaUFEMFxBmoQ\\r\\n#
+  tB1VM1izoXBm8qGCAtQwggI9AgEBMIIBAKGB2KSB1TCB0jELMAkGA1UEBhMCVVMx\\r\\n#
+  EzARBgNVBAgTCldhc2hpbmd0b24xEDAOBgNVBAcTB1JlZG1vbmQxHjAcBgNVBAoT\\r\\n#
+  FU1pY3Jvc29mdCBDb3Jwb3JhdGlvbjEtMCsGA1UECxMkTWljcm9zb2Z0IElyZWxh\\r\\n#
+  bmQgT3BlcmF0aW9ucyBMaW1pdGVkMSYwJAYDVQQLEx1UaGFsZXMgVFNTIEVTTjpE\\r\\n#
+  MDgyLTRCRkQtRUVCQTElMCMGA1UEAxMcTWljcm9zb2Z0IFRpbWUtU3RhbXAgU2Vy\\r\\n#
+  dmljZaIjCgEBMAcGBSsOAwIaAxUAdqNHe113gCJ87aZIGa5QBUqIwvKggYMwgYCk\\r\\n#
+  fjB8MQswCQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMH\\r\\n#
+  UmVkbW9uZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMSYwJAYDVQQD\\r\\n#
+  Ex1NaWNyb3NvZnQgVGltZS1TdGFtcCBQQ0EgMjAxMDANBgkqhkiG9w0BAQUFAAIF\\r\\n#
+  AOiyf1swIhgPMjAyMzA5MTgxNTQ4NDNaGA8yMDIzMDkxOTE1NDg0M1owdDA6Bgor\\r\\n#
+  BgEEAYRZCgQBMSwwKjAKAgUA6LJ/WwIBADAHAgEAAgIJSjAHAgEAAgISJDAKAgUA\\r\\n#
+  6LPQ2wIBADA2BgorBgEEAYRZCgQCMSgwJjAMBgorBgEEAYRZCgMCoAowCAIBAAID\\r\\n#
+  B6EgoQowCAIBAAIDAYagMA0GCSqGSIb3DQEBBQUAA4GBAGK+6UVMbVgt4qWdPk/1\\r\\n#
+  tYxGjavQWgZ3LPfp9l3mh/tQK2RhpjsBgKJO+VVBXcUW3YQb5qP9g40+jrcIFlfy\\r\\n#
+  vrAK3UpbfuIZ6DJ6AayEF30fseVPvwaqjl/BJlKUL3ofsjEMcZPdpfHQv4Zdj3rr\\r\\n#
+  cWGEIG68RqDIePRRKRZEJtI0MYIEDTCCBAkCAQEwgZMwfDELMAkGA1UEBhMCVVMx\\r\\n#
+  EzARBgNVBAgTCldhc2hpbmd0b24xEDAOBgNVBAcTB1JlZG1vbmQxHjAcBgNVBAoT\\r\\n#
+  FU1pY3Jvc29mdCBDb3Jwb3JhdGlvbjEmMCQGA1UEAxMdTWljcm9zb2Z0IFRpbWUt\\r\\n#
+  U3RhbXAgUENBIDIwMTACEzMAAAG6Hz8Z98F1vXwAAQAAAbowDQYJYIZIAWUDBAIB\\r\\n#
+  BQCgggFKMBoGCSqGSIb3DQEJAzENBgsqhkiG9w0BCRABBDAvBgkqhkiG9w0BCQQx\\r\\n#
+  IgQgYadrVhYugkNn/ywjh6tJ37ntH5tUO1WvoJ2sa5Mz6LIwgfoGCyqGSIb3DQEJ\\r\\n#
+  EAIvMYHqMIHnMIHkMIG9BCApVb08M25w+tYGWsmlGtp1gy1nPcqWfqgMF3nlWYVz\\r\\n#
+  BTCBmDCBgKR+MHwxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpXYXNoaW5ndG9uMRAw\\r\\n#
+  DgYDVQQHEwdSZWRtb25kMR4wHAYDVQQKExVNaWNyb3NvZnQgQ29ycG9yYXRpb24x\\r\\n#
+  JjAkBgNVBAMTHU1pY3Jvc29mdCBUaW1lLVN0YW1wIFBDQSAyMDEwAhMzAAABuh8/\\r\\n#
+  GffBdb18AAEAAAG6MCIEIMHkOGC427PqmUI7Oe7xVuezks+e+hMM+17Nfgn9Gbmw\\r\\n#
+  MA0GCSqGSIb3DQEBCwUABIICAEKE7ZkmQ1xDsee8ZSZP8Kkt2YJLG3nLR32JBRu3\\r\\n#
+  uX7TPTDw9phd40N2ryva3Xjzht/JOPa0F4mg++YIwylXVIR6EqKNVLsIA/X8AGFa\\r\\n#
+  ti+AJp6qNe9grV8DBK00whojtMK8JZhufOb7LEon5rBFEnJx3g8JhCvAqXFzxw+M\\r\\n#
+  ctqJFm6+1ynuI7mKayA89TOLBmI4RviICjMZlsW3kNXRS1GryKt7H+C8y9kiLEMX\\r\\n#
+  efauGyoMO8sToIxgrq2HZF88/b+y8c3cX+Q5iazWLzMYeWUUPrqWcIbjGjIFBMl9\\r\\n#
+  weOXEAZVo6TSGDZOQkYi/FZxKWllnxVRN1S2Al5IUUvgXGl9ZpsW2DyM1S8Qxe+a\\r\\n#
+  VrxwkOWKzHlnFo1qGz0Iq9ImHVqr2dOC5bDVMu+jlOA1LiZC5aHxuxaHWBN73Wp7\\r\\n#
+  Hjy8h73drsmmiXovOWly7lWLatIuPJh00iiyBXdDtjmeDjso3aadUII5FQ1QWZ4F\\r\\n#
+  4VWo161Gx+TxGlUt//4Hns5bn4UEGE43g9OCQuQ/WFMqdb3dHCzkkHDhWHbdpBy7\\r\\n#
+  oHHEsAdgjMdQHWfnxhCj0ZHEOupc9j1CXpQtN/B6uzsQQ/Mp34Rhsgn+/REVAwpS\\r\\n#
+  O7G69KWZrePZJiNrV/+eRn8ya6s8WNQAGB5zIQc8o+K9RGctLBOWcsRya9sqvL6r\\r\\n#
+  xUQ2\\r\\n# SIG # End signature
+  block\\r\\n\",\"status\":200,\"statusText\":\"OK\",\"headers\":{\"date\":\"Mo\
+  n, 15 Jan 2024 15:40:44
+  GMT\",\"content-type\":\"application/octet-stream\",\"content-length\":\"70226\
+  \",\"connection\":\"keep-alive\",\"cache-control\":\"public,
+  max-age=300\",\"etag\":\"\\\"1da4591c183de52\\\"\",\"last-modified\":\"Fri, 12
+  Jan 2024 19:58:48 GMT\",\"set-cookie\":\"TiPMix=66.7321614706779; path=/;
+  HttpOnly; Domain=dotnetwebsite.azurewebsites.net; Max-Age=3600; Secure;
+  SameSite=None, x-ms-routing-name=self; path=/; HttpOnly;
+  Domain=dotnetwebsite.azurewebsites.net; Max-Age=3600; Secure;
+  SameSite=None\",\"request-context\":\"appId=cid-v1:109cec76-ff6c-4be0-97b5-4f\
+  02dbac2451\",\"x-powered-by\":\"ASP.NET\",\"x-content-type-options\":\"nosniff\
+  \",\"x-azure-ref\":\"20240115T154044Z-e731ngkz1x5wp3czu2n1964aa000000001d0000\
+  00000c8p1\",\"x-cache\":\"CONFIG_NOCACHE\",\"accept-ranges\":\"bytes\",\"x-ax\
+  ios-cache-stale-if-error\":\"300000\"}}},\"installed\":[\"7.0.11~x64\",\"7.0.\
+  15~x64\"],\"axios-cache:1460287405\":{\"state\":\"cached\",\"ttl\":60000000,\
+  \"createdAt\":1705333252473,\"data\":{\"data\":{\"$schema\":\"https://json.sc\
+  hemastore.org/dotnet-releases-index.json\",\"releases-index\":[{\"channel-ver\
+  sion\":\"8.0\",\"latest-release\":\"8.0.1\",\"latest-release-date\":\"2024-01\
+  -09\",\"security\":true,\"latest-runtime\":\"8.0.1\",\"latest-sdk\":\"8.0.101\
+  \",\"product\":\".NET\",\"release-type\":\"lts\",\"support-phase\":\"active\",\
+  \"eol-date\":\"2026-11-10\",\"releases.json\":\"https://dotnetcli.blob.core.w\
+  indows.net/dotnet/release-metadata/8.0/releases.json\"},{\"channel-version\":\
+  \"7.0\",\"latest-release\":\"7.0.15\",\"latest-release-date\":\"2024-01-09\",\
+  \"security\":true,\"latest-runtime\":\"7.0.15\",\"latest-sdk\":\"7.0.405\",\"\
+  product\":\".NET\",\"release-type\":\"sts\",\"support-phase\":\"maintenance\",\
+  \"eol-date\":\"2024-05-24\",\"releases.json\":\"https://dotnetcli.blob.core.w\
+  indows.net/dotnet/release-metadata/7.0/releases.json\"},{\"channel-version\":\
+  \"6.0\",\"latest-release\":\"6.0.26\",\"latest-release-date\":\"2024-01-09\",\
+  \"security\":true,\"latest-runtime\":\"6.0.26\",\"latest-sdk\":\"6.0.418\",\"\
+  product\":\".NET\",\"release-type\":\"lts\",\"support-phase\":\"active\",\"eo\
+  l-date\":\"2024-11-12\",\"releases.json\":\"https://dotnetcli.blob.core.windo\
+  ws.net/dotnet/release-metadata/6.0/releases.json\"},{\"channel-version\":\"5.0\
+  \",\"latest-release\":\"5.0.17\",\"latest-release-date\":\"2022-05-10\",\"sec\
+  urity\":true,\"latest-runtime\":\"5.0.17\",\"latest-sdk\":\"5.0.408\",\"produ\
+  ct\":\".NET\",\"release-type\":\"sts\",\"support-phase\":\"eol\",\"eol-date\":\
+  \"2022-05-10\",\"releases.json\":\"https://dotnetcli.blob.core.windows.net/do\
+  tnet/release-metadata/5.0/releases.json\"},{\"channel-version\":\"3.1\",\"lat\
+  est-release\":\"3.1.32\",\"latest-release-date\":\"2022-12-13\",\"security\":\
+  true,\"latest-runtime\":\"3.1.32\",\"latest-sdk\":\"3.1.426\",\"product\":\".\
+  NET
+  Core\",\"release-type\":\"lts\",\"support-phase\":\"eol\",\"eol-date\":\"2022\
+  -12-13\",\"releases.json\":\"https://dotnetcli.blob.core.windows.net/dotnet/r\
+  elease-metadata/3.1/releases.json\"},{\"channel-version\":\"3.0\",\"latest-re\
+  lease\":\"3.0.3\",\"latest-release-date\":\"2020-02-18\",\"security\":false,\
+  \"latest-runtime\":\"3.0.3\",\"latest-sdk\":\"3.0.103\",\"product\":\".NET
+  Core\",\"release-type\":\"sts\",\"support-phase\":\"eol\",\"eol-date\":\"2020\
+  -03-03\",\"releases.json\":\"https://dotnetcli.blob.core.windows.net/dotnet/r\
+  elease-metadata/3.0/releases.json\"},{\"channel-version\":\"2.1\",\"latest-re\
+  lease\":\"2.1.30\",\"latest-release-date\":\"2021-08-19\",\"security\":true,\
+  \"latest-runtime\":\"2.1.30\",\"latest-sdk\":\"2.1.818\",\"product\":\".NET
+  Core\",\"release-type\":\"lts\",\"support-phase\":\"eol\",\"eol-date\":\"2021\
+  -08-21\",\"releases.json\":\"https://dotnetcli.blob.core.windows.net/dotnet/r\
+  elease-metadata/2.1/releases.json\"},{\"channel-version\":\"2.2\",\"latest-re\
+  lease\":\"2.2.8\",\"latest-release-date\":\"2019-11-19\",\"security\":true,\"\
+  latest-runtime\":\"2.2.8\",\"latest-sdk\":\"2.2.207\",\"product\":\".NET
+  Core\",\"release-type\":\"sts\",\"support-phase\":\"eol\",\"eol-date\":\"2019\
+  -12-23\",\"releases.json\":\"https://dotnetcli.blob.core.windows.net/dotnet/r\
+  elease-metadata/2.2/releases.json\"},{\"channel-version\":\"2.0\",\"latest-re\
+  lease\":\"2.0.9\",\"latest-release-date\":\"2018-07-10\",\"security\":true,\"\
+  latest-runtime\":\"2.0.9\",\"latest-sdk\":\"2.1.202\",\"product\":\".NET
+  Core\",\"release-type\":\"sts\",\"support-phase\":\"eol\",\"eol-date\":\"2018\
+  -10-01\",\"releases.json\":\"https://dotnetcli.blob.core.windows.net/dotnet/r\
+  elease-metadata/2.0/releases.json\"},{\"channel-version\":\"1.1\",\"latest-re\
+  lease\":\"1.1.13\",\"latest-release-date\":\"2019-05-14\",\"security\":true,\
+  \"latest-runtime\":\"1.1.13\",\"latest-sdk\":\"1.1.14\",\"product\":\".NET
+  Core\",\"release-type\":\"lts\",\"support-phase\":\"eol\",\"eol-date\":\"2019\
+  -06-27\",\"releases.json\":\"https://dotnetcli.blob.core.windows.net/dotnet/r\
+  elease-metadata/1.1/releases.json\"},{\"channel-version\":\"1.0\",\"latest-re\
+  lease\":\"1.0.16\",\"latest-release-date\":\"2019-05-14\",\"security\":true,\
+  \"latest-runtime\":\"1.0.16\",\"latest-sdk\":\"1.1.14\",\"product\":\".NET
+  Core\",\"release-type\":\"lts\",\"support-phase\":\"eol\",\"eol-date\":\"2019\
+  -06-27\",\"releases.json\":\"https://dotnetcli.blob.core.windows.net/dotnet/r\
+  elease-metadata/1.0/releases.json\"}]},\"status\":200,\"statusText\":\"OK\",\
+  \"headers\":{\"content-length\":\"5894\",\"content-type\":\"application/json\
+  \",\"content-md5\":\"BNLxc8M8J/h0e55OjqaQ5Q==\",\"last-modified\":\"Tue, 09
+  Jan 2024 21:09:25
+  GMT\",\"etag\":\"0x8DC1157425DF63D\",\"server\":\"Windows-Azure-Blob/1.0
+  Microsoft-HTTPAPI/2.0\",\"x-ms-request-id\":\"5f66263b-c01e-0039-19c9-4778cd0\
+  00000\",\"x-ms-version\":\"2009-09-19\",\"x-ms-lease-status\":\"unlocked\",\"\
+  x-ms-blob-type\":\"BlockBlob\",\"date\":\"Mon, 15 Jan 2024 15:40:42
+  GMT\",\"x-axios-cache-stale-if-error\":\"60000000\"}}},\"installing\":[]}"
+ms-dotnettools.vscodeintellicode-csharp: '{"ms-dotnettools.vscodeintellicode-csharp-visualstudioexptteam.vscodeintellicode-completions/copilotNotificationDoNotShowAgain":true}'
+ms-python.debugpy: '{"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]}]}'
+ms-python.python: "{\"isRemoteGlobalSettingCopiedKey\":true,\"pylanceDefaultPro\
+  mptMemento\":true,\"VSCode.ABExp.FeatureData\":{\"features\":[\"account-aacf\
+  \",\"config.editor.experimental.asyncTokenization\",\"config.mypy-type-checke\
+  r.preferDaemoncf\",\"config.python.analysis.addImport.heuristics\",\"config.p\
+  ython.analysis.enablePytestExtra\",\"config.python.analysis.gotoDefinitionInS\
+  tringLiteral\",\"config.python.analysis.persistAllIndices\",\"config.python.c\
+  reateEnvironment.contentButton\",\"config.python.createEnvironment.trigger\",\
+  \"copilotchat.renameSuggestionsDelayBeforeFetch\",\"livesharecontinuousaacf\",\
+  \"pythonRecommendTensorboardExt\",\"pythonREPLSmartSend\",\"pythonSurveyNotif\
+  icationcf\",\"pythonTerminalEnvVarActivation\",\"pythonTestAdapter\",\"region\
+  CommentDiagnostics\",\"test11-04-2020-2\"],\"assignmentContext\":\"vsliv368cf\
+  :30146710;vstes516:30244333;pythonvspyt551cf:30767658;vsaa593cf:30376535;py29\
+  gd2263:31024239;962ge761:30959799;pythongtdpath:30769146;pythonidxpt:30866567\
+  ;pythonnoceb:30805159;asynctok:30898717;pythontestfixt:30902429;pythonregdiag\
+  2:30936856;pyreplss1:30897532;pythonmypyd1:30879173;pythoncet0:30885854;pytho\
+  ntbext0:30951920;pythonait:31006305;bdiig495:31013172;\",\"configs\":[{\"Id\":\
+  \"vscode\",\"Parameters\":{\"account-aa\":false,\"config.editor.experimental.\
+  asyncTokenization\":true,\"config.mypy-type-checker.preferDaemon\":false,\"co\
+  nfig.python.analysis.addImport.heuristics\":true,\"config.python.analysis.ena\
+  blePytestExtra\":true,\"config.python.analysis.gotoDefinitionInStringLiteral\
+  \":true,\"config.python.analysis.persistAllIndices\":true,\"config.python.cre\
+  ateEnvironment.contentButton\":\"hide\",\"config.python.createEnvironment.tri\
+  gger\":\"prompt\",\"copilotchat.renameSuggestionsDelayBeforeFetch\":450,\"liv\
+  esharecontinuousaa\":false,\"pythonRecommendTensorboardExt\":true,\"pythonREP\
+  LSmartSend\":true,\"pythonSurveyNotification\":false,\"pythonTerminalEnvVarAc\
+  tivation\":true,\"pythonTestAdapter\":true,\"regionCommentDiagnostics\":true,\
+  \"test11-04-2020-2\":true}}]},\"PYTHON_WAS_DISCOVERY_TRIGGERED_E:\\\\REPOS\\\
+  \\PARIKSHA\":true,\"remoteWorkspaceKeysForWhichTheCopyIsDone_Key\":[\"E:\\\\R\
+  EPOS\\\\TABEA\\\\TABEA.CODE-WORKSPACE\",\"E:\\\\REPOS\\\\PARIKSHA\\\\PARIKSHA\
+  .CODE-WORKSPACE\"],\"PYTHON_WAS_DISCOVERY_TRIGGERED_E:\\\\REPOS\\\\PFIFFNERPO\
+  CS\\\\ACTUALDOCS\":true,\"autoSelectionInterpretersQueriedOnce\":true,\"PYTHO\
+  N_WAS_DISCOVERY_TRIGGERED_E:\\\\REPOS\\\\EVALUATION SOFTWARE PYTHON CARIN
+  LIGHTNER FOR ROA
+  SPECTRUM\":true,\"WORKSPACE_FOLDER_INTERPRETER_PATH_E:\\\\REPOS\\\\EVALUATION
+  SOFTWARE PYTHON CARIN LIGHTNER FOR ROA SPECTRUM\":\"e:\\\\repos\\\\Evaluation
+  Software Python Carin Lightner for ROA
+  spectrum\\\\.venv\\\\Scripts\\\\python.exe\",\"SHELL_INTEGRATION_WORKING_KEY_\
+  powershellCore\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_E:\\\\REPOS\\\\TABEA\"\
+  :true,\"remoteWorkspaceFolderKeysForWhichTheCopyIsDone_Key\":[\"E:\\\\REPOS\\\
+  \\PFIFFNERPOCS\\\\VOLTA -
+  KOMPLETT\",\"E:\\\\REPOS\\\\TABEA\",\"E:\\\\REPOS\\\\EVALUATION SOFTWARE
+  PYTHON CARIN LIGHTNER FOR ROA
+  SPECTRUM\",\"E:\\\\REPOS\\\\PFIFFNERPOCS\\\\ACTUALDOCS\",\"E:\\\\REPOS\\\\PAR\
+  IKSHA\",\"E:\\\\REPOS\\\\SUS-OPENAI-API-TUTORIAL\"],\"PYTHON_WAS_DISCOVERY_TR\
+  IGGERED_E:\\\\REPOS\\\\PFIFFNERPOCS\\\\VOLTA -
+  KOMPLETT\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_E:\\\\REPOS\\\\PFIFFNERPOCS\\\
+  \\ALLDB\":true,\"PYTHON_ENV_INFO_CACHE\":[{\"name\":\".venv\",\"location\":\"\
+  e:\\\\repos\\\\Evaluation Software Python Carin Lightner for ROA
+  spectrum\\\\.venv\",\"kind\":\"virt-venv\",\"executable\":{\"filename\":\"e:\\\
+  \\repos\\\\Evaluation Software Python Carin Lightner for ROA
+  spectrum\\\\.venv\\\\Scripts\\\\python.exe\",\"sysPrefix\":\"e:\\\\repos\\\\E\
+  valuation Software Python Carin Lightner for ROA
+  spectrum\\\\.venv\",\"ctime\":1709032802023,\"mtime\":1709032802023},\"search\
+  Location\":\"file:///e%3A/repos/Evaluation%20Software%20Python%20Carin%20Ligh\
+  tner%20for%20ROA%20spectrum/.venv\",\"display\":\"Python 3.12.2 ('.venv':
+  venv)\",\"version\":{\"major\":3,\"minor\":12,\"micro\":2,\"release\":{\"level\
+  \":\"final\",\"serial\":0},\"sysVersion\":\"3.12.2 (tags/v3.12.2:6abddd9,
+  Feb  6 2024, 21:26:36) [MSC v.1937 64 bit
+  (AMD64)]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[],\"type\":\"Vir\
+  tual\",\"id\":\"E:\\\\REPOS\\\\EVALUATION SOFTWARE PYTHON CARIN LIGHTNER FOR
+  ROA
+  SPECTRUM\\\\.VENV\\\\SCRIPTS\\\\PYTHON.EXE\",\"detailedDisplayName\":\"Python
+  3.12.2 ('.venv':
+  venv)\"},{\"name\":\"env\",\"location\":\"e:\\\\repos\\\\PfiffnerPoCs\\\\alldb\
+  \\\\env\",\"kind\":\"virt-venv\",\"executable\":{\"filename\":\"e:\\\\repos\\\
+  \\PfiffnerPoCs\\\\alldb\\\\env\\\\Scripts\\\\python.exe\",\"sysPrefix\":\"e:\\\
+  \\repos\\\\PfiffnerPoCs\\\\alldb\\\\env\",\"ctime\":1711633558143,\"mtime\":1\
+  711633558143},\"searchLocation\":\"file:///e%3A/repos/PfiffnerPoCs/alldb/env\
+  \",\"display\":\"Python 3.12.2 ('env':
+  venv)\",\"version\":{\"major\":3,\"minor\":12,\"micro\":2,\"release\":{\"level\
+  \":\"final\",\"serial\":0},\"sysVersion\":\"3.12.2 (tags/v3.12.2:6abddd9,
+  Feb  6 2024, 21:26:36) [MSC v.1937 64 bit
+  (AMD64)]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[],\"type\":\"Vir\
+  tual\",\"id\":\"E:\\\\REPOS\\\\PFIFFNERPOCS\\\\ALLDB\\\\ENV\\\\SCRIPTS\\\\PYT\
+  HON.EXE\",\"detailedDisplayName\":\"Python 3.12.2 ('env':
+  venv)\"}],\"PYTHON_WAS_DISCOVERY_TRIGGERED_E:\\\\REPOS\\\\TABEA\\\\SERVER\":t\
+  rue,\"PYTHON_WAS_DISCOVERY_TRIGGERED_E:\\\\REPOS\\\\TABEA\\\\CLIENT\":true,\"\
+  PYTHON_GLOBAL_STORAGE_KEYS\":[{\"key\":\"remoteWorkspaceKeysForWhichTheCopyIs\
+  Done_Key\",\"defaultValue\":[]},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_\
+  E:\\\\REPOS\\\\TABEA\\\\CLIENT\"},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PAT\
+  H_E:\\\\REPOS\\\\TABEA\\\\SERVER\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED\
+  _E:\\\\REPOS\\\\TABEA\\\\CLIENT\",\"defaultValue\":false},{\"key\":\"PYTHON_W\
+  AS_DISCOVERY_TRIGGERED_E:\\\\REPOS\\\\TABEA\\\\SERVER\",\"defaultValue\":fals\
+  e},{\"key\":\"WORKSPACE_INTERPRETER_PATH_E:\\\\REPOS\\\\TABEA\\\\TABEA.CODE-W\
+  ORKSPACE\"},{\"key\":\"PYTHON_ENV_INFO_CACHEv2\",\"defaultValue\":[]},{\"key\
+  \":\"PYTHON_WAS_DISCOVERY_TRIGGERED_E:\\\\REPOS\\\\PFIFFNERPOCS\\\\ALLDB\",\"\
+  defaultValue\":false},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_E:\\\\REPOS\
+  \\\\PFIFFNERPOCS\\\\ALLDB\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_E:\\\\\
+  REPOS\\\\PFIFFNERPOCS\\\\VOLTA -
+  KOMPLETT\",\"defaultValue\":false},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PA\
+  TH_E:\\\\REPOS\\\\PFIFFNERPOCS\\\\VOLTA -
+  KOMPLETT\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_E:\\\\REPOS\\\\TABEA\",\
+  \"defaultValue\":false},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_E:\\\\RE\
+  POS\\\\TABEA\"},{\"key\":\"TERMINAL_ENV_COLLECTION_PROMPT_KEY\",\"defaultValue\
+  \":true},{\"key\":\"SHELL_INTEGRATION_WORKING_KEY_powershellCore\"},{\"key\":\
+  \"isRemoteGlobalSettingCopiedKey\",\"defaultValue\":false},{\"key\":\"remoteW\
+  orkspaceFolderKeysForWhichTheCopyIsDone_Key\",\"defaultValue\":[]},{\"key\":\
+  \"autoSelectionInterpretersQueriedOnce\"},{\"key\":\"VSCode.ABExp.FeatureData\
+  \",\"defaultValue\":{\"features\":[]}},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGE\
+  RED_E:\\\\REPOS\\\\EVALUATION SOFTWARE PYTHON CARIN LIGHTNER FOR ROA
+  SPECTRUM\",\"defaultValue\":false},{\"key\":\"PYTHON_ENV_INFO_CACHE\",\"defau\
+  ltValue\":[]},{\"key\":\"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS\",\"defaultValue\
+  \":[]},{\"key\":\"PythonTensorBoardWebviewPreferredViewGroup\",\"defaultValue\
+  \":-1},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_E:\\\\REPOS\\\\EVALUATION
+  SOFTWARE PYTHON CARIN LIGHTNER FOR ROA
+  SPECTRUM\"},{\"key\":\"preferredGlobalPyInterpreter\"}],\"PYTHON_ENV_INFO_CAC\
+  HEv2\":[{\"name\":\"\",\"location\":\"\",\"kind\":\"global-other\",\"executab\
+  le\":{\"filename\":\"C:\\\\Python312\\\\python.exe\",\"sysPrefix\":\"C:\\\\Py\
+  thon312\",\"ctime\":1709032130268,\"mtime\":1707253852000},\"display\":\"Pyth\
+  on 3.12.2
+  64-bit\",\"version\":{\"major\":3,\"minor\":12,\"micro\":2,\"release\":{\"lev\
+  el\":\"final\",\"serial\":0},\"sysVersion\":\"3.12.2 (tags/v3.12.2:6abddd9,
+  Feb  6 2024, 21:26:36) [MSC v.1937 64 bit
+  (AMD64)]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[],\"id\":\"C:\\\
+  \\PYTHON312\\\\PYTHON.EXE\",\"detailedDisplayName\":\"Python 3.12.2
+  64-bit\"}]}"
+ms-python.vscode-pylance: '{"VSCode.ABExp.FeatureData":{"features":["account-aacf","config.editor.experimental.asyncTokenization","config.mypy-type-checker.preferDaemoncf","config.python.analysis.addImport.heuristics","config.python.analysis.enablePytestExtra","config.python.analysis.gotoDefinitionInStringLiteral","config.python.analysis.persistAllIndices","config.python.createEnvironment.contentButton","config.python.createEnvironment.trigger","copilotchat.renameSuggestionsDelayBeforeFetch","livesharecontinuousaacf","pythonRecommendTensorboardExt","pythonREPLSmartSend","pythonSurveyNotificationcf","pythonTerminalEnvVarActivation","pythonTestAdapter","regionCommentDiagnostics","test11-04-2020-2"],"assignmentContext":"vsliv368cf:30146710;vstes516:30244333;pythonvspyt551cf:30767658;vsaa593cf:30376535;py29gd2263:31024239;962ge761:30959799;pythongtdpath:30769146;pythonidxpt:30866567;pythonnoceb:30805159;asynctok:30898717;pythontestfixt:30902429;pythonregdiag2:30936856;pyreplss1:30897532;pythonmypyd1:30879173;pythoncet0:30885854;pythontbext0:30951920;pythonait:31006305;bdiig495:31013172;","configs":[{"Id":"vscode","Parameters":{"account-aa":false,"config.editor.experimental.asyncTokenization":true,"config.mypy-type-checker.preferDaemon":false,"config.python.analysis.addImport.heuristics":true,"config.python.analysis.enablePytestExtra":true,"config.python.analysis.gotoDefinitionInStringLiteral":true,"config.python.analysis.persistAllIndices":true,"config.python.createEnvironment.contentButton":"hide","config.python.createEnvironment.trigger":"prompt","copilotchat.renameSuggestionsDelayBeforeFetch":450,"livesharecontinuousaa":false,"pythonRecommendTensorboardExt":true,"pythonREPLSmartSend":true,"pythonSurveyNotification":false,"pythonTerminalEnvVarActivation":true,"pythonTestAdapter":true,"regionCommentDiagnostics":true,"test11-04-2020-2":true}}]}}'
+ms-toolsai.jupyter: '{"VSCode.ABExp.FeatureData":{"features":["account-aacf","config.editor.experimental.asyncTokenization","config.jupyter.enableKernelCompletions","config.jupyter.formatStackTracescf","config.jupyter.interactiveWindow.textEditor.normalizeSelectioncf","config.mypy-type-checker.preferDaemoncf","config.python.analysis.addImport.heuristics","config.python.analysis.enablePytestExtra","config.python.analysis.gotoDefinitionInStringLiteral","config.python.analysis.persistAllIndices","config.python.createEnvironment.contentButton","config.python.createEnvironment.trigger","copilotchat.renameSuggestionsDelayBeforeFetch","DataViewerContribution","livesharecontinuousaacf","mindaroBinariesVersion","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","pythonCreateEnvOnPipInstall","pythonRecommendTensorboardExt","pythonREPLSmartSend","pythonTerminalEnvVarActivation","pythonTestAdapter","regionCommentDiagnostics","shouldUseGrpcService","test11-04-2020-2"],"assignmentContext":"vsliv368cf:30146710;vspor879:30202332;vspor708:30202333;vspor363:30204092;vstes516:30244333;binariesv615:30325510;vsaa593cf:30376535;py29gd2263:31024239;c4g48928:30535728;962ge761:30959799;pythongtdpath:30769146;pythonidxpt:30866567;pythonnoceb:30805159;asynctok:30898717;pythontestfixt:30902429;pythonregdiag2:30936856;pyreplss1:30897532;pythonmypyd1:30879173;pythoncet0:30885854;pythontbext0:30879054;dsvsc016:30899300;dsvsc017:30899301;dsvsc020:30976470;pythonait:31006305;dsvsc021:30996838;bdiig495:31013172;pythoncenvpt:31022790;","configs":[{"Id":"vscode","Parameters":{"account-aa":false,"config.editor.experimental.asyncTokenization":true,"config.jupyter.enableKernelCompletions":true,"config.jupyter.formatStackTraces":false,"config.jupyter.interactiveWindow.textEditor.normalizeSelection":false,"config.mypy-type-checker.preferDaemon":false,"config.python.analysis.addImport.heuristics":true,"config.python.analysis.enablePytestExtra":true,"config.python.analysis.gotoDefinitionInStringLiteral":true,"config.python.analysis.persistAllIndices":true,"config.python.createEnvironment.contentButton":"hide","config.python.createEnvironment.trigger":"prompt","copilotchat.renameSuggestionsDelayBeforeFetch":450,"DataViewerContribution":true,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"pythonCreateEnvOnPipInstall":true,"pythonRecommendTensorboardExt":true,"pythonREPLSmartSend":true,"pythonTerminalEnvVarActivation":true,"pythonTestAdapter":true,"regionCommentDiagnostics":true,"shouldUseGrpcService":true,"test11-04-2020-2":true}}]},"INTERPRETER_PATH_WAS_SELECTED_FOR_JUPYTER_SERVER":true,"CACHE_KEY_FOR_JUPYTER_KERNELSPEC_ROOT_PATH.":"file:///c%3A/Users/SeverinTh%C3%B6ni/AppData/Roaming/jupyter/kernels","NewUserUriMigrationCompleted":"7141ddd5f94f141e0139bce2c31249afb2dbd913f3fa5a1dfbcf14ee6ad94aaa","MEMENTO_KEY_FOR_STORING_USED_JUPYTER_PROVIDERS_7141ddd5f94f141e0139bce2c31249afb2dbd913f3fa5a1dfbcf14ee6ad94aaa":[]}'
+ms-vscode-remote.remote-containers: '{"VSCode.ABExp.FeatureData":{"features":["account-aacf","config.editor.experimental.asyncTokenization","copilotchat.renameSuggestionsDelayBeforeFetch","livesharecontinuousaacf","mindaroBinariesVersion","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","test11-04-2020-2","testtv"],"assignmentContext":"vsliv368cf:30146710;vspor879:30202332;vspor708:30202333;vspor363:30204092;tftest:31042121;vstes516:30244333;binariesv615:30325510;vsaa593cf:30376535;c4g48928:30535728;asynctok:30898717;bdiig495:31013172;","configs":[{"Id":"vscode","Parameters":{"account-aa":false,"config.editor.experimental.asyncTokenization":true,"copilotchat.renameSuggestionsDelayBeforeFetch":450,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"test11-04-2020-2":true,"testtv":true}}]},"devcontainers.controlManifest":{"timestamp":"2023-10-30T07:29:19.512Z","manifest":{"disallowedFeatures":[{"featureIdPrefix":"ghcr.io/devcontainers/features/disallowed-feature","documentationURL":"https://github.com/devcontainers/features/tree/main/src/disallowed-feature#readme"},{"featureIdPrefix":"ghcr.io/chrmarti/test-features/test-disallowed-feature","documentationURL":"https://github.com/chrmarti/test-features/tree/main/src/test-disallowed-feature#readme"}],"featureAdvisories":[{"featureId":"ghcr.io/devcontainers/features/feature-with-advisory","introducedInVersion":"1.0.7","fixedInVersion":"1.1.10","description":"Feature
+  with advisory for
+  testing.","documentationURL":"https://github.com/devcontainers/features/tree/main/src/feature-with-advisory#readme"},{"featureId":"ghcr.io/chrmarti/test-features/test-feature-with-advisory-one","introducedInVersion":"1.0.0","fixedInVersion":"1.0.2","description":"Feature
+  1 with advisory 1 for
+  testing.","documentationURL":"https://github.com/chrmarti/test-features/tree/main/src/test-feature-with-advisory-one#readme"},{"featureId":"ghcr.io/chrmarti/test-features/test-feature-with-advisory-two","introducedInVersion":"1.0.1","fixedInVersion":"1.1.0","description":"Feature
+  2 with advisory 1 for
+  testing.","documentationURL":"https://github.com/chrmarti/test-features/tree/main/src/test-feature-with-advisory-two#readme"},{"featureId":"ghcr.io/chrmarti/test-features/test-feature-with-advisory-two","introducedInVersion":"1.2.0","fixedInVersion":"2.0.0","description":"Feature
+  2 with advisory 2 for
+  testing.","documentationURL":"https://github.com/chrmarti/test-features/tree/main/src/test-feature-with-advisory-two#readme"}]}},"removeOnStartup":false,"buildNoCache":false,"userConfirmedAttachToContainerRequiresTrust":true,"localExtensions":["aaron-bond.better-comments","adrianwilczynski.namespace","alefragnani.pascal","Angular.ng-template","berublan.vscode-log-viewer","bierner.markdown-mermaid","bpruitt-goddard.mermaid-markdown-syntax-highlighting","dbaeumer.vscode-eslint","dotenv.dotenv-vscode","eamodio.gitlens","EditorConfig.EditorConfig","emilast.LogFileHighlighter","esbenp.prettier-vscode","GitHub.copilot","GitHub.copilot-chat","humao.rest-client","KevinRose.vsc-python-indent","mechatroner.rainbow-csv","mrmlnc.vscode-scss","ms-azure-devops.azure-pipelines","ms-azuretools.azure-dev","ms-azuretools.vscode-azureappservice","ms-azuretools.vscode-azurecontainerapps","ms-azuretools.vscode-azurefunctions","ms-azuretools.vscode-azureresourcegroups","ms-azuretools.vscode-azurestaticwebapps","ms-azuretools.vscode-azurestorage","ms-azuretools.vscode-azurevirtualmachines","ms-azuretools.vscode-bicep","ms-azuretools.vscode-cosmosdb","ms-azuretools.vscode-docker","ms-dotnettools.csdevkit","ms-dotnettools.csharp","ms-dotnettools.vscode-dotnet-runtime","ms-dotnettools.vscodeintellicode-csharp","ms-python.autopep8","ms-python.debugpy","ms-python.python","ms-python.vscode-pylance","ms-toolsai.jupyter","ms-toolsai.jupyter-keymap","ms-toolsai.jupyter-renderers","ms-toolsai.vscode-jupyter-cell-tags","ms-toolsai.vscode-jupyter-slideshow","ms-vscode-remote.remote-containers","ms-vscode-remote.remote-ssh","ms-vscode-remote.remote-ssh-edit","ms-vscode-remote.remote-wsl","ms-vscode.azure-account","ms-vscode.azurecli","ms-vscode.hexeditor","ms-vscode.remote-explorer","ms-vscode.vscode-node-azure-pack","nrwl.angular-console","roadsidejesus.csharp-helper","rvest.vs-code-prettier-eslint","syler.sass-indented","tomoki1207.pdf","vscode-icons-team.vscode-icons","weijunyu.vscode-json-path","yzhang.markdown-all-in-one"]}'
+ms-vscode-remote.remote-ssh: "{}"
+ms-vscode-remote.remote-wsl: '{"VSCode.ABExp.FeatureData":{"features":["account-aacf","config.editor.experimental.asyncTokenization","copilotchat.renameSuggestionsDelayBeforeFetch","livesharecontinuousaacf","mindaroBinariesVersion","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","test11-04-2020-2","testtv"],"assignmentContext":"vsliv368cf:30146710;vspor879:30202332;vspor708:30202333;vspor363:30204092;tftest:31042121;vstes516:30244333;binariesv615:30325510;vsaa593cf:30376535;c4g48928:30535728;asynctok:30898717;bdiig495:31013172;","configs":[{"Id":"vscode","Parameters":{"account-aa":false,"config.editor.experimental.asyncTokenization":true,"copilotchat.renameSuggestionsDelayBeforeFetch":450,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"test11-04-2020-2":true,"testtv":true}}]},"wsl.lastUpdateCheck":1715439995785,"wsl.downloadInProgress":true}'
+ms-vscode.azure-account: '{"lastSeenSettingsCache":{"values":["ADAL","AzureCloud",""]},"nps/lastSessionDate":"Wed
+  Jan 24
+  2024","nps/sessionCount":9,"VSCode.ABExp.FeatureData":{"features":["account-aacf","config.editor.experimental.asyncTokenization","config.mypy-type-checker.preferDaemoncf","config.python.analysis.enablePytestExtra","config.python.analysis.gotoDefinitionInStringLiteral","config.python.analysis.persistAllIndices","config.python.createEnvironment.contentButton","config.python.createEnvironment.trigger","copilotchat.renameSuggestionsDelayBeforeFetch","livesharecontinuousaacf","mindaroBinariesVersion","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","pythonRecommendTensorboardExt","pythonREPLSmartSend","pythonTerminalEnvVarActivation","pythonTestAdapter","regionCommentDiagnostics","shouldUseGrpcService","test11-04-2020-2"],"assignmentContext":"vsliv368cf:30146710;vspor879:30202332;vspor708:30202333;vspor363:30204092;vstes516:30244333;binariesv615:30325510;vsaa593cf:30376535;py29gd2263:31024239;c4g48928:30535728;962ge761:30959799;pythongtdpath:30769146;pythonidxpt:30866567;pythonnoceb:30805159;asynctok:30898717;pythontestfixt:30902429;pythonregdiag2:30936856;pyreplss1:30897532;pythonmypyd1:30879173;pythoncet0:30885854;pythontbext0:30879054;bdiig495:31013172;","configs":[{"Id":"vscode","Parameters":{"account-aa":false,"config.editor.experimental.asyncTokenization":true,"config.mypy-type-checker.preferDaemon":false,"config.python.analysis.enablePytestExtra":true,"config.python.analysis.gotoDefinitionInStringLiteral":true,"config.python.analysis.persistAllIndices":true,"config.python.createEnvironment.contentButton":"hide","config.python.createEnvironment.trigger":"prompt","copilotchat.renameSuggestionsDelayBeforeFetch":450,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"pythonRecommendTensorboardExt":true,"pythonREPLSmartSend":true,"pythonTerminalEnvVarActivation":true,"pythonTestAdapter":true,"regionCommentDiagnostics":true,"shouldUseGrpcService":true,"test11-04-2020-2":true}}]},"nps/isCandidate":false,"nps/skipVersion":"0.11.6"}'
+vscode-icons-team.vscode-icons: '{"vsicons":{"version":"12.7.0","status":2,"welcomeShown":true}}'
+workbench.accounts.experimental.showEntitlements: "false"
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":true,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":true,"order":10},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"order":12},{"id":"workbench.view.extension.dotenv","pinned":true,"order":9},{"id":"workbench.view.extension.thunder-client","pinned":true,"visible":true,"order":13},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":true,"order":14},{"id":"workbench.view.extension.nx-console","pinned":true,"order":17},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.jupyter","pinned":true,"order":15},{"id":"workbench.view.extension.azure","pinned":true,"order":13},{"id":"workbench.view.extension.log-viewer","pinned":true,"order":8},{"id":"workbench.view.extension.hexExplorer","pinned":true,"order":16},{"id":"workbench.panel.chatSidebar","pinned":true,"visible":false,"order":100},{"id":"userDataProfiles","pinned":true,"visible":false},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false}]'
+workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
+  \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
+  in\":true,\"views\":[{},{\"when\":\"solutionExplorerVisible\"},{},{},{\"when\
+  \":\"timelineHasProvider\"},{\"when\":\"npm:showScriptExplorer\"}]},{\"id\":\
+  \"workbench.view.search\",\"themeIcon\":{\"id\":\"search-view-icon\"},\"name\
+  \":\"Search\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\"workbench.view.scm\
+  \",\"themeIcon\":{\"id\":\"source-control-view-icon\"},\"name\":\"Source
+  Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
+  scm.providerCount !=
+  '0'\"},{},{\"when\":\"!gitlens:disabled\"},{\"when\":\"!gitlens:disabled\"},{\
+  \"when\":\"!gitlens:disabled\"},{\"when\":\"!gitlens:disabled\"},{\"when\":\"\
+  !gitlens:disabled &&
+  !gitlens:hasVirtualFolders\"},{\"when\":\"!gitlens:disabled\"},{\"when\":\"gi\
+  tlens:plus:enabled && !gitlens:disabled &&
+  !gitlens:hasVirtualFolders\"},{\"when\":\"!gitlens:disabled\"}]},{\"id\":\"wo\
+  rkbench.view.debug\",\"themeIcon\":{\"id\":\"run-view-icon\"},\"name\":\"Run
+  and Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
+  'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"loadedScriptsSupported && debugUx ==
+  'default'\"},{\"when\":\"breakpointsExist || hasDebugged || debugUx ==
+  'default'\"},{\"when\":\"debugType == 'pwa-chrome' || debugType ==
+  'pwa-msedge'\"},{\"when\":\"jsDebugHasExcludedCallers && debugType ==
+  'node-terminal' || jsDebugHasExcludedCallers && debugType == 'pwa-chrome' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-extensionHost' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-msedge' ||
+  jsDebugHasExcludedCallers && debugType ==
+  'pwa-node'\"}]},{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\"rem\
+  ote-explorer-view-icon\"},\"name\":\"Remote
+  Explorer\",\"isBuiltin\":true,\"views\":[{},{\"when\":\"!hideConnectCommands\
+  \"},{\"when\":\"true\"},{\"when\":\"remote-containers:showDetails &&
+  !hideConnectCommands\"},{\"when\":\"!hideConnectCommands\"}]},{\"id\":\"workb\
+  ench.view.extension.test\",\"themeIcon\":{\"id\":\"test-view-icon\"},\"name\":\
+  \"Testing\",\"isBuiltin\":true,\"views\":[{\"when\":\"testing.providerCount >
+  0\"},{\"when\":\"testing.isTestCoverageOpen\"}]},{\"id\":\"workbench.view.ext\
+  ension.references-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"Ref\
+  erences\",\"isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\
+  \"}]},{\"id\":\"workbench.view.extension.cspell-explorer\",\"isBuiltin\":fals\
+  e},{\"id\":\"workbench.view.extension.gitlens\",\"themeIcon\":{\"id\":\"gitle\
+  ns-gitlens\"},\"name\":\"GitLens\",\"isBuiltin\":false,\"views\":[{},{\"when\
+  \":\"config.gitlens.cloudPatches.enabled &&
+  gitlens:gk:organization:drafts:enabled && !gitlens:hasVirtualFolders &&
+  !gitlens:untrusted\"},{\"when\":\"!gitlens:hasVirtualFolders &&
+  !gitlens:untrusted\"},{}]},{\"id\":\"workbench.view.extension.gitlensInspect\
+  \",\"themeIcon\":{\"id\":\"gitlens-gitlens-inspect\"},\"name\":\"GitLens
+  Inspect\",\"isBuiltin\":false,\"views\":[{\"when\":\"!gitlens:disabled\"},{\"\
+  when\":\"!gitlens:disabled &&
+  !gitlens:hasVirtualFolders\"},{\"when\":\"!gitlens:disabled\"},{\"when\":\"gi\
+  tlens:plus:enabled &&
+  !gitlens:disabled\"},{\"when\":\"!gitlens:disabled\"}]},{\"id\":\"workbench.v\
+  iew.extension.gitlensPatch\",\"themeIcon\":{\"id\":\"gitlens-cloud-patch\"},\
+  \"name\":\"GitLens
+  Patch\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.gitlens.cloudPatche\
+  s.enabled && gitlens:views:patchDetails:mode &&
+  !gitlens:untrusted\"}]},{\"id\":\"workbench.view.extension.dotenv\",\"iconUrl\
+  \":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/dotenv.dotenv-vscode-0.28.1\
+  /media/sidebar-icon.svg\",\"scheme\":\"file\"},\"name\":\"Dotenv\",\"isBuiltin\
+  \":false,\"views\":[{}]},{\"id\":\"workbench.view.extension.thunder-client\",\
+  \"name\":\"Thunder
+  Client\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.dockerView\",\
+  \"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-azuretools.vsco\
+  de-docker-1.29.1/resources/docker.svg\",\"scheme\":\"file\"},\"name\":\"Docker\
+  \",\"isBuiltin\":false,\"views\":[{},{},{},{},{},{},{}]},{\"id\":\"workbench.\
+  view.extension.nx-console\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DA\
+  TA_PATH%%/nrwl.angular-console-18.21.1/tree-view-icon.svg\",\"scheme\":\"file\
+  \"},\"name\":\"Nx
+  Console\",\"isBuiltin\":false,\"views\":[{\"when\":\"!isAngularWorkspace &&
+  !isNxWorkspace\"},{\"when\":\"isAngularWorkspace &&
+  !isNxWorkspace\"},{\"when\":\"isNxWorkspace\"},{},{\"when\":\"isNxWorkspace\"\
+  },{\"when\":\"isNxWorkspace\"}]},{\"id\":\"workbench.view.extensions\",\"them\
+  eIcon\":{\"id\":\"extensions-view-icon\"},\"name\":\"Extensions\",\"isBuiltin\
+  \":true,\"views\":[{\"when\":\"defaultExtensionViews\"},{\"when\":\"searchExt\
+  ensionUpdates || searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions
+  && workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews &&
+  hasGallery && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
+  searchRecentlyUpdatedExtensions\"},{\"when\":\"recommendedExtensions\"},{\"wh\
+  en\":\"defaultExtensionViews && hasGallery &&
+  !config.extensions.showRecommendationsOnlyOnDemand &&
+  !sortByUpdateDate\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"searchMarketplaceExtensions\"},{\"when\
+  \":\"installedExtensions ||
+  searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"when\":\
+  \"searchDisabledExtensions\"},{\"when\":\"searchBuiltInExtensions\"},{\"when\
+  \":\"searchWorkspaceUnsupportedExtensions\"},{\"when\":\"builtInExtensions\"}\
+  ,{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"},{\"when\":\
+  \"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"searchUnsupportedWorksp\
+  aceExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"}]},{\"id\":\"wor\
+  kbench.view.extension.jupyter\",\"themeIcon\":{\"id\":\"notebook\"},\"name\":\
+  \"Jupyter\",\"isBuiltin\":false,\"views\":[]},{\"id\":\"workbench.view.extens\
+  ion.azure\",\"themeIcon\":{\"id\":\"azure\"},\"name\":\"Azure\",\"isBuiltin\"\
+  :false,\"views\":[{\"when\":\"ms-azuretools.vscode-azureresourcegroups.hasFoc\
+  usedGroup\"},{},{},{}]},{\"id\":\"workbench.view.extension.log-viewer\",\"ico\
+  nUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/berublan.vscode-log-vie\
+  wer-0.14.1/images/baseline-broken_image-24px.svg\",\"scheme\":\"file\"},\"name\
+  \":\"Log
+  Viewer\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.view.extensi\
+  on.hexExplorer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/m\
+  s-vscode.hexeditor-1.10.0/panel-icon.svg\",\"scheme\":\"file\"},\"name\":\"Hex
+  Editor\",\"isBuiltin\":false,\"views\":[{\"when\":\"hexEditor:showSidebarInsp\
+  ector\"}]},{\"id\":\"workbench.panel.chatSidebar\",\"themeIcon\":{\"id\":\"co\
+  mment-discussion\"},\"name\":\"Chat\",\"isBuiltin\":true,\"views\":[{}]},{\"id\
+  \":\"userDataProfiles\",\"themeIcon\":{\"id\":\"defaultProfile-icon\"},\"name\
+  \":\"Profiles\",\"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.view.sync\
+  \",\"themeIcon\":{\"id\":\"settings-sync-view-icon\"},\"name\":\"Settings
+  Sync\",\"isBuiltin\":true,\"views\":[{\"when\":\"enableSyncConflictsView &&
+  hasConflicts\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews\"},{\"when\":\"enableS\
+  yncActivityViews\"}]},{\"id\":\"workbench.view.editSessions\",\"themeIcon\":{\
+  \"id\":\"edit-sessions-view-icon\"},\"name\":\"Cloud
+  Changes\",\"isBuiltin\":true,\"views\":[{\"when\":\"editSessionsShowView\"}]}\
+  ]"
+workbench.activityBar.location: default
+workbench.auxiliaryBar.size: "256"
+workbench.chat.experimental.showWelcomeView: "false"
+workbench.editor.languageDetectionOpenedLanguages.global: '[["jsonc",true],["git-commit",true],["xml",true],["plaintext",true],["log",true],["csharp",true],["javascript",true],["scss",true],["html",true],["json",true],["typescript",true],["yaml",true]]'
+workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false,"order":3},{"id":"timeline","isHidden":false,"order":4},{"id":"workbench.explorer.openEditorsView","isHidden":false,"order":0},{"id":"workbench.explorer.fileView","isHidden":false,"order":2},{"id":"npm","isHidden":false,"order":5},{"id":"solutionExplorer","isHidden":false,"order":1},{"id":"workbench.explorer.emptyView","isHidden":false}]'
+workbench.grid.size: '{"height":768,"width":1024}'
+workbench.panel.alignment: center
+workbench.panel.chatSidebar.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
+workbench.panel.lastNonMaximizedHeight: "330"
+workbench.panel.lastNonMaximizedWidth: "300"
+workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
+workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":true,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":true,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":true,"order":3},{"id":"workbench.views.service.panel.7a7ee233-235f-4d38-9289-c7c950540d40","pinned":true},{"id":"workbench.view.extension.jupyter-variables","pinned":true,"order":8},{"id":"workbench.view.extension.azurePanel","pinned":true,"order":7},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":true,"order":5},{"id":"workbench.view.extension.gitlensPanel","pinned":false,"visible":false,"order":6},{"id":"refactorPreview","pinned":true,"visible":false}]'
+workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
+  Console","isBuiltin":true,"views":[]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]},{"id":"workbench.views.service.panel.7a7ee233-235f-4d38-9289-c7c950540d40","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
+  Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"workbench.view.extension.jupyter-variables","themeIcon":{"id":"notebook"},"name":"Jupyter","isBuiltin":false,"views":[{"when":"jupyter.hasNativeNotebookOrInteractiveWindowOpen"},{"when":"jupyter.hasNativeNotebookOrInteractiveWindowOpen
+  &&
+  jupyter:showTagsExplorer"}]},{"id":"workbench.view.extension.azurePanel","themeIcon":{"id":"azure"},"name":"Azure","isBuiltin":false,"views":[{}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
+  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.gitlensPanel","themeIcon":{"id":"gitlens-graph"},"name":"GitLens","isBuiltin":false,"views":[{"when":"gitlens:plus:enabled
+  && !gitlens:disabled"},{"when":"gitlens:plus:enabled &&
+  !gitlens:disabled"}]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
+  Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
+workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
+workbench.panel.size: "155"
+workbench.panel.testResults.state.hidden: '[{"id":"workbench.panel.testResults.view","isHidden":false}]'
+workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.worktrees","isHidden":false},{"id":"gitlens.views.contributors","isHidden":false},{"id":"workbench.scm.sync","isHidden":false}]'
+workbench.sideBar.size: "429"
+workbench.statusbar.hidden: '["status.workspaceTrust.7b9b36e7f51cd25edfa2afbff748ad29","status.workspaceTrust.1696332379264","status.workspaceTrust.123281058f2a0809b3c850e4dfd6a42b","status.workspaceTrust.1696338334980","status.workspaceTrust.e3f25057d1090e271f44336f4bd74b3b","status.workspaceTrust.62cc9825d68e542143f16ccd92073689","status.workspaceTrust.ea2cbb881ced127827ba5d3762370396","status.workspaceTrust.1696493894122","status.workspaceTrust.1696495138525","status.workspaceTrust.1696517022556","status.workspaceTrust.1696850702615","status.workspaceTrust.61c5d15ebaee64418e8b5fd29c567ed8","status.workspaceTrust.1696851982313","status.workspaceTrust.860b026245cef2570035b89deaf06304","status.workspaceTrust.8e09b80a37c4b50dd583426772302491","status.workspaceTrust.1696931844836","status.workspaceTrust.d8f4d9f02408465f006ff86cab3a2c28","status.workspaceTrust.e01e05ec5520769b8c3f603ee049f24c","status.workspaceTrust.1697016427544","status.workspaceTrust.dc27b9cfae41f18df23d0e8d2e2e7bbc","status.workspaceTrust.1697023429838","status.workspaceTrust.f5dd3a8f9dfbb5e7b0ad771a4c917874","status.workspaceTrust.1697092588112","status.workspaceTrust.3b1f85df5ad8b761bb8d5fd4172dfe1b","status.workspaceTrust.1697439061698","status.workspaceTrust.8783ee17efab99b9efbc12841f4758d7","status.workspaceTrust.c6b7b22536625bf114355ba3275126a7","status.workspaceTrust.1697448275389","status.workspaceTrust.1697451569870","status.workspaceTrust.1697525017977","status.workspaceTrust.1698047605164","status.workspaceTrust.1698061109349","status.workspaceTrust.1698151501929","status.workspaceTrust.1698151574045","status.workspaceTrust.7f4c0a12bb8186226b473a0525ea986d","status.workspaceTrust.1698154846480","status.workspaceTrust.1698154909382","status.workspaceTrust.3bfcce7a18d88ec52385cc84c02b5a08","status.workspaceTrust.1698155350276","status.workspaceTrust.1698223860161","status.workspaceTrust.1698232925951","status.workspaceTrust.9fe950a2e3c0d712490974db3a106576","status.workspaceTrust.1698235876962","status.workspaceTrust.1698237680774","status.workspaceTrust.ad8d93e26dc7d3ea1a2fc350b6ba15eb","status.workspaceTrust.1698326911225","status.workspaceTrust.36aa2e744134b47f4b233b850a38a111","status.workspaceTrust.8826479c1ab529dfcda6b035262f2872","status.workspaceTrust.5a70f4c4dad61fac9649a6fd1ca24ea3","status.workspaceTrust.1698655167856","status.workspaceTrust.1698661902917","status.workspaceTrust.1698757825277","status.workspaceTrust.c1ab6828c216c8474e1a2843e6696e33","status.workspaceTrust.d23d5620458d40e6327d587ea8b9e504","status.workspaceTrust.bfbcd9481989a0051a77f0b71a4e3389","status.workspaceTrust.1699430950108","status.workspaceTrust.fb83eb588606effcecbaaed2110ef63b","status.workspaceTrust.1699969104979","status.workspaceTrust.1699972933355","status.workspaceTrust.1699974184236","status.workspaceTrust.2b3b774372e8b0b926c639d035b6de17","status.workspaceTrust.1700130993517","status.workspaceTrust.6fb1e1463536523c33308d30ee4f4dfa","status.workspaceTrust.39aa6fded831f3dba281e6600f0b7beb","status.workspaceTrust.1700478480145","status.workspaceTrust.1700496429742","status.workspaceTrust.1700550467513","status.workspaceTrust.d4bbd564c62a1a9d5c2d6a97cff4e4b5","status.workspaceTrust.c0bf5920f631efa06b95b4e82ee0b009","status.workspaceTrust.b16ef27b3588ef0a1bbbfac5b257c597","status.workspaceTrust.1701685409023","status.workspaceTrust.1701685479893","status.workspaceTrust.1701695326598","status.workspaceTrust.3b9d6db6afdab6c6a4cb2deff26c7be2","status.workspaceTrust.1701858852838","status.workspaceTrust.1702293347639","status.workspaceTrust.5f88763739b882d93746b338fd2e9b6c","status.workspaceTrust.1702376459916","status.workspaceTrust.1702472185775","status.workspaceTrust.1703076229947","status.workspaceTrust.3fac1c364a94121022809eb3dfadf060","status.workspaceTrust.1703174058481","status.workspaceTrust.1704879718827","status.workspaceTrust.1704966062466","status.workspaceTrust.5880213df5c7d8c4f10e31c7571f75a8","status.workspaceTrust.6fb0f694b174ddf559687736c4a98a00","status.workspaceTrust.1705402215529","status.workspaceTrust.937a012cbeb225cbe15bf3a88bc9ee5e","status.workspaceTrust.752ae0120460c6fd76f212a9891c530a","status.workspaceTrust.3409a2e38ec2fdf432c4ff64d99e961a","status.workspaceTrust.a8c563d9ff5bec9a39917a45bef3cac3","status.workspaceTrust.ce65844805d854e62f80c69b71c619d3","status.workspaceTrust.12de747bb013c97b9a7904bf74c94a4f","status.workspaceTrust.eff8c309141ff92550f058623b0d1a66","status.workspaceTrust.6951caa38e325e110cad9b3d4efe20dc","status.workspaceTrust.1f9009ed392a0587f048238b28d3b0bf","status.workspaceTrust.bdc91473914a3b0e59af013b2badabb1","status.workspaceTrust.fbf38afe0ddaab0b4c6f137247548b12","status.workspaceTrust.1706773906650","status.workspaceTrust.1706774284899","status.workspaceTrust.1706783519016","status.workspaceTrust.1706794385888","status.workspaceTrust.11a5c96176737d01a52cce2987e04df4","status.workspaceTrust.90a83803964ce558824921f8c86ea931","status.workspaceTrust.1707739318628","status.workspaceTrust.1707740543453","status.workspaceTrust.4342936a11d02a4f76dc0bbff77f68df","status.workspaceTrust.1707814366742","status.workspaceTrust.1707822283709","status.workspaceTrust.4504211f166cd990bac0f3adca52ac9d","status.workspaceTrust.1707827754346","status.workspaceTrust.f2a47e66292384893f360521110923c2","status.workspaceTrust.1707903519237","status.workspaceTrust.1707904137170","status.workspaceTrust.1707987657909","status.workspaceTrust.1708330485538","status.workspaceTrust.1708345534284","status.workspaceTrust.1708347370508","status.workspaceTrust.1708348947182","status.workspaceTrust.1708361420695","status.workspaceTrust.1708418244070","status.workspaceTrust.1708501780169","status.workspaceTrust.046c0e389fb0d3a65ee0173ac7342b65","status.workspaceTrust.1708512708583","status.workspaceTrust.1708513085795","status.workspaceTrust.1708518713521","status.workspaceTrust.1708518902125","status.workspaceTrust.1708587976414","status.workspaceTrust.1708589758204","status.workspaceTrust.1708591048072","status.workspaceTrust.1708596196606","status.workspaceTrust.1708609780994","status.workspaceTrust.1708936738871","status.workspaceTrust.1708946004333","status.workspaceTrust.1708950097423","status.workspaceTrust.1708951881798","status.workspaceTrust.1708952042211","status.workspaceTrust.1708952882835","status.workspaceTrust.1708954089119","status.workspaceTrust.1708965963838","status.workspaceTrust.1709021410790","status.workspaceTrust.c1102cf7a23d7a3125f9cf410dcd0cb1","status.workspaceTrust.1709132461923"]'
+workbench.telemetryOptOutShown: "true"
+workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false}]'
+workbench.view.extension.azure.state.hidden: '[{"id":"azureFocusView","isHidden":true},{"id":"azureResourceGroups","isHidden":false},{"id":"azureWorkspace","isHidden":false},{"id":"ms-azuretools.helpAndFeedback","isHidden":false}]'
+workbench.view.extension.azurePanel.state.hidden: '[{"id":"azureActivityLog","isHidden":false}]'
+workbench.view.extension.dockerView.state.hidden: '[{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":false},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":false},{"id":"vscode-docker.views.help","isHidden":false}]'
+workbench.view.extension.dotenv.state.hidden: '[{"id":"dotenv.view.vault","isHidden":false}]'
+workbench.view.extension.gitlens.state.hidden: '[{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":false},{"id":"gitlens.views.account","isHidden":false},{"id":"gitlens.views.drafts","isHidden":false}]'
+workbench.view.extension.gitlensInspect.state.hidden: '[{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false}]'
+workbench.view.extension.gitlensPanel.state.hidden: '[{"id":"gitlens.views.graph","isHidden":false},{"id":"gitlens.views.graphDetails","isHidden":false}]'
+workbench.view.extension.jupyter-variables.state.hidden: '[{"id":"jupyterViewVariables","isHidden":false},{"id":"cell-tag","isHidden":false}]'
+workbench.view.extension.log-viewer.state.hidden: '[{"id":"logExplorer","isHidden":false}]'
+workbench.view.extension.nx-console.state.hidden: '[{"id":"nxConsole.views.welcome","isHidden":false},{"id":"nxConsole.views.angular-welcome","isHidden":false},{"id":"nxProjects","isHidden":false},{"id":"nxRunTarget","isHidden":false},{"id":"nxCommands","isHidden":false},{"id":"nxHelpAndFeedback","isHidden":false}]'
+workbench.view.extension.references-view.state.hidden: '[{"id":"references-view.tree","isHidden":false}]'
+workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false},{"id":"workbench.view.testCoverage","isHidden":false}]'
+workbench.view.extension.thunder-client.state.hidden: '[{"id":"thunder-client-sidebar","isHidden":false}]'
+workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false}]'
+workbench.view.remote.state.hidden: '[{"id":"targetsWsl","isHidden":false},{"id":"targetsContainers","isHidden":false},{"id":"detailsContainers","isHidden":false},{"id":"devVolumes","isHidden":false},{"id":"remoteTargets","isHidden":false},{"id":"~remote.helpPanel","isHidden":false}]'
+workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
+workbench.views.extensions.installed.size: "63"
+workbench.views.service.panel.7a7ee233-235f-4d38-9289-c7c950540d40.state.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
+workbench.welcomePage.extensionMetadata.github.copilot: '{"title":"GitHub
+  Copilot","description":"Your AI pair
+  programmer","imagePath":"https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.130.0/1698280927549/Microsoft.VisualStudio.Services.Icons.Default","date":1698655170432}'
+workbench.welcomePage.hiddenCategories: '["Setup","ms-dotnettools.csdevkit#csdevkit.gettingStarted","Intermediate","ms-vscode-remote.remote-wsl#wslWalkthrough"]'
+workbench.welcomePage.walkthroughMetadata: '[["ms-dotnettools.csdevkit#csdevkit.gettingStarted",{"firstSeen":1696331905179,"stepIDs":["ms-dotnettools.csdevkit#csdevkit.gettingStarted#csdevkit.signInStep","ms-dotnettools.csdevkit#csdevkit.gettingStarted#csdevkit.setupEnvironmentStep","ms-dotnettools.csdevkit#csdevkit.gettingStarted#csdevkit.openWorkspaceStep","ms-dotnettools.csdevkit#csdevkit.gettingStarted#csdevkit.createNewProjectStep","ms-dotnettools.csdevkit#csdevkit.gettingStarted#csdevkit.launchDebugAndTestStep","ms-dotnettools.csdevkit#csdevkit.gettingStarted#csdevkit.learnMoreStep"],"manaullyOpened":true}],["eamodio.gitlens#gitlens.welcome",{"firstSeen":1696405663290,"stepIDs":["gitlens.welcome.tutorial","gitlens.welcome.sidebars","gitlens.welcome.currentLineBlame","gitlens.welcome.fileAnnotations","gitlens.welcome.revisionHistory","gitlens.welcome.commitGraph","gitlens.welcome.workspaces","gitlens.welcome.hostingServiceIntegrations","gitlens.welcome.labs","gitlens.welcome.preview","gitlens.welcome.trial","gitlens.welcome.services","gitlens.welcome.additional"],"manaullyOpened":false}],["ms-vscode-remote.remote-wsl#wslWalkthrough",{"firstSeen":1696942015311,"stepIDs":["explore.commands","open.wslwindow","create.project","open.project","linux.environment","install.tools","run.debug","come.back"],"manaullyOpened":false}],["ms-azuretools.vscode-docker#dockerStart",{"firstSeen":1698047605980,"stepIDs":["openFolder","openFolderMac","scaffold","buildImage","runContainer","dockerExplorer","pushImage","azDeploy","learn"],"manaullyOpened":false}],["nrwl.angular-console#nxConsole",{"firstSeen":1701075033093,"stepIDs":["nxConsole.generate","nxConsole.run","nxConsole.commonNxCommands","nxConsole.projects","nxConsole.streamlining"],"manaullyOpened":false}],["GitHub.copilot#copilotWelcome",{"firstSeen":1704879719591,"stepIDs":["copilot.signin","copilot.firstsuggest","copilot.chat","copilot.realfiles.openrecent","copilot.realfiles.quickopen","copilot.iterate","copilot.creativity"],"manaullyOpened":false}],["ms-python.python#pythonWelcome",{"firstSeen":1705329480287,"stepIDs":["python.createPythonFile","python.installPythonWin8","python.installPythonMac","python.installPythonLinux","python.selectInterpreter","python.createEnvironment","python.runAndDebug","python.learnMoreWithDS"],"manaullyOpened":false}],["ms-python.python#pythonWelcome2",{"firstSeen":1705329480287,"stepIDs":["python.createPythonFolder","python.createPythonFile","python.installPythonWin8","python.installPythonMac","python.installPythonLinux","python.createEnvironment2","python.runAndDebug","python.learnMoreWithDS2"],"manaullyOpened":false}],["ms-python.python#pythonDataScienceWelcome",{"firstSeen":1705329480287,"stepIDs":["python.installJupyterExt","python.createNewNotebook","python.openInteractiveWindow","python.dataScienceLearnMore"],"manaullyOpened":false}],["ms-toolsai.jupyter#jupyterWelcome",{"firstSeen":1705329480287,"stepIDs":["ipynb.newUntitledIpynb","jupyter.selectKernel","jupyter.exploreAndDebug","jupyter.dataScienceLearnMore"],"manaullyOpened":false}],["ms-azuretools.azure-dev#azd.start",{"firstSeen":1705333147676,"stepIDs":["azd.install","azd.login","azd.scaffold","azd.up","azd.explore"],"manaullyOpened":false}],["ms-azuretools.vscode-azurefunctions#functionsStart",{"firstSeen":1705333147676,"stepIDs":["scenarios","create","initialize"],"manaullyOpened":false}],["ms-azuretools.vscode-azureresourcegroups#azure-get-started",{"firstSeen":1705333147676,"stepIDs":["sign-in","azure-view","grouping","activity-log","create-resource"],"manaullyOpened":false}],["ms-azuretools.vscode-bicep#gettingStarted",{"firstSeen":1705333165491,"stepIDs":["openBicepFile","addParameters","addResources","visualizeYourResources","deployToAzure","learnMore"],"manaullyOpened":false}],["alefragnani.pascal#pascalWelcome",{"firstSeen":1707726145307,"stepIDs":["syntaxHighlighting","snippets","formatter","codeNavigation","delphiLike"],"manaullyOpened":false}],["ms-azuretools.vscode-azurecontainerapps#containerApps.walkthrough.gettingStarted",{"firstSeen":1713428900646,"stepIDs":["containerApps.walkthrough.addWorkspaceProject","containerApps.walkthrough.azureSignIn","containerApps.walkthrough.deployWorkspaceProject","containerApps.walkthrough.exploreDetails","containerApps.walkthrough.cleanUpResources"],"manaullyOpened":false}]]'
+zokugun.cron-tasks: '{"version":"0.1.2"}'
